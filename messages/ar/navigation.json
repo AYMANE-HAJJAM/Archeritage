@@ -1,0 +1,59 @@
+{
+  "home": "الرئيسية",
+  "cabinet": "المكتب",
+  "expertises": "الخبرات",
+  "missions": "المهام",
+  "method": "المنهجية",
+  "solutions": "الحلول",
+  "offer": "العرض",
+  "references": "المراجع",
+  "journal": "المجلة",
+  "contact": "اتصل بنا",
+  "dropdowns": {
+    "offer": {
+      "toggle": "عرض قائمة العرض"
+    },
+    "missions": {
+      "toggle": "عرض قائمة المهام",
+      "viewAll": "عرض جميع المهام",
+      "items": {
+        "architecture": { "title": "العمارة والتصميم", "description": "تصميم المشاريع المعمارية وتحويلها ومواكبتها." },
+        "land": { "title": "التحليل العقاري ودراسة الجدوى", "description": "قراءة الإمكانات والقيود والسيناريوهات الممكنة." },
+        "realEstate": { "title": "التثمين العقاري", "description": "إعادة تموقع الأصول العقارية وتحويلها." },
+        "heritage": { "title": "التراث وإعادة التأهيل", "description": "التشخيص والحفظ وإعادة التأهيل وإعادة التوظيف." },
+        "governance": { "title": "حوكمة المشاريع وتأمينها", "description": "المسؤوليات والمصادقات والمخاطر والقيادة." }
+      }
+    },
+    "expertises": {
+      "toggle": "عرض قائمة الخبرات",
+      "viewAll": "عرض جميع الخبرات",
+      "items": {
+        "architecture": { "title": "التصميم المعماري", "description": "تصميم المباني وتحويلها وإعادة هيكلتها وفق سياقها." },
+        "land": { "title": "التعمير والعقار", "description": "تحليل القواعد والقدرات البنائية وقيود الموقع." },
+        "heritage": { "title": "التراث المعماري", "description": "قراءة القيم التاريخية والمعمارية والإنشائية للمبنى." },
+        "realEstate": { "title": "التثمين العقاري", "description": "تحديد الاستعمالات والعوائق وإمكانات تحويل الأصل." },
+        "complexProjects": { "title": "هندسة المشاريع المعقدة", "description": "هيكلة المسؤوليات والمصادقات والمخاطر والقيادة." }
+      }
+    },
+    "solutions": {
+      "toggle": "عرض قائمة الحلول",
+      "viewAll": "عرض جميع الحلول",
+      "items": {
+        "landPotential": { "title": "الإمكانات العقارية", "description": "تحليل أرض قبل الاقتناء أو البناء أو البيع." },
+        "assetValorisation": { "title": "تثمين أصل عقاري", "description": "تحديد العوائق وإعادة تموقع أصل عقاري." },
+        "decisionSketch": { "title": "التصور الأولي للقرار", "description": "اختبار رؤية معمارية أولى قبل دراسة متكاملة." },
+        "heritageDiagnosis": { "title": "تشخيص التراث", "description": "فهم مبنى قديم قبل أي تدخل." },
+        "securedHeritageProject": { "title": "مشروع تراثي مؤمّن", "description": "هيكلة الحوكمة وتأمين عملية معقدة." }
+      }
+    }
+  },
+  "changeLanguage": "تغيير اللغة",
+  "changeLanguageAria": "تغيير اللغة. اللغة الحالية: {language}",
+  "languageSection": "اللغة",
+  "languageMenu": "اختيار اللغة",
+  "locales": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

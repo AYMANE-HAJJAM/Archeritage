@@ -1,0 +1,160 @@
+{
+  "mentions": {
+    "eyebrow": "Informations légales",
+    "title": "Mentions légales",
+    "introduction": "Informations publiques sur l’éditeur du site, son utilisation et les responsabilités associées.",
+    "reviewNote": "Ce document constitue une information publique sur le fonctionnement du site et doit être validé avec les informations administratives définitives du cabinet.",
+    "lastUpdatedLabel": "Dernière mise à jour :",
+    "sections": {
+      "publisher": {
+        "title": "Éditeur du site",
+        "paragraphs": [
+          "Le site archeritage.ma est édité par ARCHERITAGE, cabinet d’architecture à Casablanca, spécialisé en valorisation foncière et territoriale, projets d’envergure et valorisation du patrimoine."
+        ]
+      },
+      "contact": {
+        "title": "Coordonnées publiques",
+        "paragraphs": [
+          "Pour toute question relative au site ou à une demande de contact :"
+        ]
+      },
+      "hosting": {
+        "title": "Hébergement et exploitation technique",
+        "paragraphs": [
+          "Le site est publié sur une infrastructure d’hébergement web gérée, conformément à la configuration technique du projet (déploiement Vercel).",
+          "Les coordonnées contractuelles complètes de l’hébergeur ne sont pas reproduites ici tant qu’elles n’ont pas été confirmées administrativement."
+        ]
+      },
+      "intellectual": {
+        "title": "Propriété intellectuelle",
+        "paragraphs": [
+          "Les textes, la structure, l’identité visuelle, les photographies de projet et les éléments graphiques publiés sur ce site sont protégés.",
+          "Toute reproduction, représentation, adaptation ou diffusion, totale ou partielle, nécessite l’autorisation préalable d’ARCHERITAGE, sauf usage autorisé par la loi."
+        ]
+      },
+      "liability": {
+        "title": "Responsabilité",
+        "paragraphs": [
+          "Les informations présentées sur ce site ont une vocation générale. Elles ne constituent ni une étude, ni un diagnostic, ni un engagement contractuel.",
+          "Chaque projet fait l’objet d’un cadrage adapté à son contexte, à son maître d’ouvrage et aux décisions à prendre."
+        ]
+      },
+      "externalLinks": {
+        "title": "Liens externes",
+        "paragraphs": [
+          "Le site peut contenir des liens vers des ressources externes. ARCHERITAGE n’exerce aucun contrôle sur le contenu de ces sites tiers et décline toute responsabilité quant à leur contenu ou leur disponibilité."
+        ]
+      },
+      "privacy": {
+        "title": "Données personnelles",
+        "paragraphs": [
+          "Les traitements liés au formulaire de contact et à l’assistant de navigation sont décrits dans la politique de confidentialité."
+        ]
+      },
+      "legalContact": {
+        "title": "Contact pour questions légales",
+        "paragraphs": [
+          "Les demandes relatives au site ou à l’utilisation des contenus publiés peuvent être adressées à l’adresse de contact publique d’ARCHERITAGE."
+        ]
+      }
+    }
+  },
+  "privacy": {
+    "eyebrow": "Données personnelles",
+    "title": "Politique de confidentialité",
+    "introduction": "Cette page décrit, de manière factuelle, les traitements utilisés pour répondre aux demandes adressées à ARCHERITAGE via le site.",
+    "reviewNote": "Ce document constitue une information publique sur le fonctionnement du site et doit être validé avec les informations administratives définitives du cabinet.",
+    "lastUpdatedLabel": "Dernière mise à jour :",
+    "sections": {
+      "controller": {
+        "title": "Responsable du traitement",
+        "paragraphs": [
+          "ARCHERITAGE est le point de contact public pour les demandes relatives aux données transmises via le site.",
+          "Les coordonnées de contact figurent en bas de cette page."
+        ]
+      },
+      "contactForm": {
+        "title": "Données collectées via le formulaire de contact",
+        "paragraphs": [
+          "Le formulaire de contact recueille uniquement les informations que vous choisissez de transmettre, parmi les champs suivants :"
+        ],
+        "fields": [
+          "Nom et prénom",
+          "Organisation (facultatif)",
+          "Fonction (facultatif)",
+          "Profil / type de demandeur",
+          "Adresse email",
+          "Téléphone (facultatif)",
+          "Type de projet",
+          "Localisation du projet (facultatif)",
+          "Stade d’avancement du projet",
+          "Échéance souhaitée (facultatif)",
+          "Message / contexte du projet",
+          "Pièce jointe facultative (PDF, DOC, DOCX, JPG ou PNG, 5 Mo maximum)"
+        ]
+      },
+      "attachments": {
+        "title": "Documents transmis",
+        "paragraphs": [
+          "Vous pouvez joindre un document de manière facultative pour illustrer votre demande.",
+          "Merci de ne transmettre que les éléments nécessaires à la compréhension du projet et d’éviter les données sensibles ou confidentielles non indispensables."
+        ]
+      },
+      "assistant": {
+        "title": "Assistant de navigation",
+        "paragraphs": [
+          "Le site propose un assistant permettant de poser des questions sur les informations publiques d’ARCHERITAGE.",
+          "Les messages que vous saisissez sont transmis au serveur du site, puis traités par le prestataire d’intelligence artificielle configuré côté serveur afin de générer une réponse.",
+          "La conversation s’affiche dans votre navigateur le temps de la session ; elle n’est pas enregistrée dans une base de données du site.",
+          "Ne transmettez pas via l’assistant de documents de projet, d’informations hautement confidentielles ou de données personnelles sensibles."
+        ]
+      },
+      "purpose": {
+        "title": "Finalités du traitement",
+        "paragraphs": [
+          "Les données transmises via le formulaire sont utilisées pour comprendre votre demande, en vérifier le contexte et préparer un premier échange utile.",
+          "Les messages adressés à l’assistant servent uniquement à produire une réponse d’orientation fondée sur les informations publiques validées du site.",
+          "Ces données ne sont pas utilisées pour une newsletter, de la publicité ou du profilage commercial."
+        ]
+      },
+      "recipients": {
+        "title": "Destinataires et sous-traitants techniques",
+        "paragraphs": [
+          "Les demandes de contact validées sont transmises par email à l’adresse opérationnelle configurée par ARCHERITAGE.",
+          "Les messages de l’assistant sont traités par le prestataire d’IA configuré sur le serveur (par exemple GitHub Models ou OpenAI, selon la configuration active).",
+          "L’hébergement du site repose sur une infrastructure gérée (déploiement Vercel)."
+        ]
+      },
+      "cookies": {
+        "title": "Cookies et stockage local",
+        "paragraphs": [
+          "Le site peut mémoriser votre préférence de langue via un cookie de locale (NEXT_LOCALE) afin de conserver la langue choisie lors de votre navigation.",
+          "Aucun cookie publicitaire, de mesure d’audience non essentielle ou de reciblage n’est déclaré actuellement sur le site.",
+          "L’assistant ne conserve pas l’historique de conversation dans le stockage local du navigateur au-delà de la session en cours.",
+          "Aucun bandeau de consentement n’est affiché tant qu’aucun traceur non essentiel n’est activé."
+        ]
+      },
+      "security": {
+        "title": "Sécurité",
+        "paragraphs": [
+          "Le formulaire de contact est soumis à des contrôles côté serveur : champ anti-spam invisible, limitation du nombre de demandes, validation des formats et contrôle de taille des pièces jointes.",
+          "Aucune transmission sur Internet n’offre une sécurité absolue ; ARCHERITAGE met en œuvre des mesures raisonnables compte tenu de la nature des demandes reçues."
+        ]
+      },
+      "rights": {
+        "title": "Vos droits",
+        "paragraphs": [
+          "Vous pouvez demander l’accès, la rectification ou la suppression des informations que vous avez transmises via le site, dans la mesure du cadre légal applicable.",
+          "Les demandes relatives aux données personnelles peuvent être adressées à contact@archeritage.ma.",
+          "Toute demande pourra faire l’objet d’une vérification d’identité lorsque cela est nécessaire."
+        ]
+      },
+      "updates": {
+        "title": "Mises à jour",
+        "paragraphs": [
+          "Cette politique peut être mise à jour pour refléter l’évolution du site ou de ses traitements. La date de dernière mise à jour figure en bas de page."
+        ]
+      }
+    }
+  }
+}

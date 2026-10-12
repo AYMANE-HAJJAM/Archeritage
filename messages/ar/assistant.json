@@ -1,0 +1,47 @@
+{
+  "title": "مساعد ARCHERITAGE",
+  "status": "معلومات عامة مُعتمدة",
+  "supporting": "الخبرات والمهام والمنهجية والمراجع.",
+  "greeting": "مرحباً. كيف يمكنني توجيهكم؟",
+  "greetingSupport": "يمكنني إعلامكم بخبرات ARCHERITAGE ومهامه وPATRIGOV ومراجعه العامة.",
+  "note": "إجابات مبنية على المعلومات العامة المُعتمدة في الموقع.",
+  "suggestions": [
+    "ماذا يفعل ARCHERITAGE؟",
+    "أي خبرة لمشروعي؟",
+    "ما هو PATRIGOV؟",
+    "تقديم موقع أو مشروع"
+  ],
+  "placeholder": "اطرحوا سؤالكم أو صفوا مشروعكم…",
+  "streaming": "يحضّر المساعد إجابته…",
+  "open": "فتح مساعد ARCHERITAGE",
+  "close": "إغلاق المساعد",
+  "closeShort": "إغلاق",
+  "clearConversation": "مسح المحادثة",
+  "clearShort": "مسح",
+  "clearConfirm": "مسح المحادثة الجارية؟",
+  "yourQuestion": "سؤالكم",
+  "send": "إرسال",
+  "stopGeneration": "إيقاف التوليد",
+  "stopShort": "إيقاف",
+  "suggestedQuestions": "أسئلة مقترحة",
+  "contactCta": "الاتصال بـ ARCHERITAGE",
+  "roleAssistant": "المساعد",
+  "roleYou": "أنتم",
+  "interrupted": "تم إيقاف الإجابة.",
+  "triggerLabel": "المساعد",
+  "errors": {
+    "invalidRequest": "تعذّر إرسال سؤالكم. تحققوا من النص وأعيدوا المحاولة.",
+    "unavailable": "المساعد غير متاح مؤقتاً.",
+    "rateLimited": "تلقّى المساعد طلبات كثيرة. يُرجى المحاولة بعد لحظات.",
+    "timeout": "تستغرق الإجابة وقتاً أطول من المتوقع. يُرجى إعادة المحاولة.",
+    "providerUnavailable": "المساعد غير متاح حالياً. يمكنكم الاتصال مباشرة بفريق ARCHERITAGE."
+  },
+  "routeLabels": {
+    "expertises": "اكتشف الخبرات",
+    "method": "اطّلع على PATRIGOV",
+    "references": "استعرض المراجع",
+    "contact": "الاتصال بـ ARCHERITAGE",
+    "missions": "اكتشف المهام",
+    "cabinet": "اكتشف المكتب"
+  }
+}

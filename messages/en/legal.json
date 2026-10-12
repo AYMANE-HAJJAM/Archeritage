@@ -1,0 +1,160 @@
+{
+  "mentions": {
+    "eyebrow": "Legal information",
+    "title": "Legal notice",
+    "introduction": "Public information about the site publisher, its use and associated responsibilities.",
+    "reviewNote": "This document provides public information about the website and must be reviewed once the firm’s final administrative details are confirmed.",
+    "lastUpdatedLabel": "Last updated:",
+    "sections": {
+      "publisher": {
+        "title": "Site publisher",
+        "paragraphs": [
+          "The website archeritage.ma is published by ARCHERITAGE, an architecture practice in Casablanca specialising in land and territorial valorisation, major projects and built heritage valorisation."
+        ]
+      },
+      "contact": {
+        "title": "Public contact details",
+        "paragraphs": [
+          "For any question about the website or a contact request:"
+        ]
+      },
+      "hosting": {
+        "title": "Hosting and technical operation",
+        "paragraphs": [
+          "The website is published on managed web hosting infrastructure, in line with the project’s technical configuration (Vercel deployment).",
+          "The host’s full contractual details are not reproduced here until they have been confirmed administratively."
+        ]
+      },
+      "intellectual": {
+        "title": "Intellectual property",
+        "paragraphs": [
+          "The texts, structure, visual identity, project photographs and graphic elements published on this site are protected.",
+          "Any reproduction, representation, adaptation or distribution, in whole or in part, requires prior authorisation from ARCHERITAGE, except where permitted by law."
+        ]
+      },
+      "liability": {
+        "title": "Liability",
+        "paragraphs": [
+          "The information presented on this site is general in nature. It does not constitute a study, a diagnosis or a contractual commitment.",
+          "Each project is framed according to its context, its project owner and the decisions to be taken."
+        ]
+      },
+      "externalLinks": {
+        "title": "External links",
+        "paragraphs": [
+          "The site may contain links to external resources. ARCHERITAGE has no control over the content of third-party sites and accepts no liability for their content or availability."
+        ]
+      },
+      "privacy": {
+        "title": "Personal data",
+        "paragraphs": [
+          "Processing related to the contact form and the navigation assistant is described in the privacy policy."
+        ]
+      },
+      "legalContact": {
+        "title": "Contact for legal questions",
+        "paragraphs": [
+          "Questions about the website or the use of published content may be sent to ARCHERITAGE’s public contact address."
+        ]
+      }
+    }
+  },
+  "privacy": {
+    "eyebrow": "Personal data",
+    "title": "Privacy policy",
+    "introduction": "This page factually describes the processing used to respond to requests addressed to ARCHERITAGE through the website.",
+    "reviewNote": "This document provides public information about the website and must be reviewed once the firm’s final administrative details are confirmed.",
+    "lastUpdatedLabel": "Last updated:",
+    "sections": {
+      "controller": {
+        "title": "Data controller",
+        "paragraphs": [
+          "ARCHERITAGE is the public contact point for requests relating to data submitted through the website.",
+          "Contact details are provided at the bottom of this page."
+        ]
+      },
+      "contactForm": {
+        "title": "Data collected through the contact form",
+        "paragraphs": [
+          "The contact form collects only the information you choose to submit, among the following fields:"
+        ],
+        "fields": [
+          "Full name",
+          "Organisation (optional)",
+          "Role (optional)",
+          "Profile / type of requester",
+          "Email address",
+          "Telephone (optional)",
+          "Project type",
+          "Project location (optional)",
+          "Project stage",
+          "Desired timeline (optional)",
+          "Message / project context",
+          "Optional attachment (PDF, DOC, DOCX, JPG or PNG, 5 MB maximum)"
+        ]
+      },
+      "attachments": {
+        "title": "Submitted documents",
+        "paragraphs": [
+          "You may optionally attach a document to illustrate your request.",
+          "Please submit only what is necessary to understand the project and avoid sensitive or confidential data that is not required."
+        ]
+      },
+      "assistant": {
+        "title": "Navigation assistant",
+        "paragraphs": [
+          "The website provides an assistant for questions about ARCHERITAGE’s public information.",
+          "Messages you enter are sent to the site server and then processed by the AI provider configured on the server to generate a response.",
+          "The conversation is displayed in your browser for the session; it is not stored in a site database.",
+          "Do not use the assistant to submit project documents, highly confidential information or sensitive personal data."
+        ]
+      },
+      "purpose": {
+        "title": "Purpose of processing",
+        "paragraphs": [
+          "Data submitted through the form is used to understand your request, verify its context and prepare a useful first exchange.",
+          "Messages sent to the assistant are used solely to produce an orientation response based on the site’s validated public information.",
+          "This data is not used for a newsletter, advertising or commercial profiling."
+        ]
+      },
+      "recipients": {
+        "title": "Recipients and technical providers",
+        "paragraphs": [
+          "Validated contact requests are forwarded by email to the operational address configured by ARCHERITAGE.",
+          "Assistant messages are processed by the AI provider configured on the server (for example GitHub Models or OpenAI, depending on the active configuration).",
+          "Site hosting relies on managed infrastructure (Vercel deployment)."
+        ]
+      },
+      "cookies": {
+        "title": "Cookies and local storage",
+        "paragraphs": [
+          "The site may store your language preference in a locale cookie (NEXT_LOCALE) to maintain your chosen language while browsing.",
+          "No advertising, non-essential analytics or retargeting cookies are currently declared on the site.",
+          "The assistant does not persist conversation history in the browser’s local storage beyond the current session.",
+          "No consent banner is displayed while no non-essential trackers are active."
+        ]
+      },
+      "security": {
+        "title": "Security",
+        "paragraphs": [
+          "The contact form is subject to server-side checks: hidden anti-spam field, request-rate limiting, format validation and attachment size controls.",
+          "No transmission over the Internet offers absolute security; ARCHERITAGE applies reasonable measures given the nature of requests received."
+        ]
+      },
+      "rights": {
+        "title": "Your rights",
+        "paragraphs": [
+          "You may request access to, rectification or deletion of information you submitted through the site, within the applicable legal framework.",
+          "Requests relating to personal data may be sent to contact@archeritage.ma.",
+          "Any request may be subject to identity verification when necessary."
+        ]
+      },
+      "updates": {
+        "title": "Updates",
+        "paragraphs": [
+          "This policy may be updated to reflect changes to the site or its processing. The last updated date appears at the bottom of the page."
+        ]
+      }
+    }
+  }
+}

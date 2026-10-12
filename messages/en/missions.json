@@ -1,0 +1,63 @@
+{
+  "eyebrow": "Engagements",
+  "title": "Choose the right level of support",
+  "introduction": "From a targeted diagnosis to full governance, ARCHERITAGE adapts its engagement to the project’s real state, the decisions required and the stakeholders involved.",
+  "issues": {
+    "eyebrow": "According to your stakes",
+    "title": "Identify the right entry point",
+    "items": [
+      {
+        "title": "Valorise land or a territory",
+        "text": "Feasibility, parcel optimisation, subdivision or territorial strategy: turn a site into a clear, argued project.",
+        "formats": "Possible formats: flash diagnosis or feasibility study"
+      },
+      {
+        "title": "Build or transform a major project",
+        "text": "Design, framing, coordination or governance of an operation involving multiple stakeholders.",
+        "formats": "Possible formats: owner’s advisory, audit or full governance"
+      },
+      {
+        "title": "Restore or valorise heritage",
+        "text": "Diagnosis, restoration, rehabilitation or adaptive reuse of a historic site with adapted steering.",
+        "formats": "Possible formats: diagnosis, study or owner’s advisory"
+      }
+    ]
+  },
+  "formats": {
+    "eyebrow": "Engagement formats",
+    "title": "A calibrated level of support",
+    "tableHeaders": {
+      "format": "Format",
+      "outcome": "What this format enables"
+    },
+    "items": [
+      {
+        "name": "Flash diagnosis",
+        "outcome": "A rapid reading of a land, architectural or heritage situation to clarify the first stakes."
+      },
+      {
+        "name": "Feasibility study",
+        "outcome": "Analysis of a site’s or project’s potential before an investment, programming or commitment decision."
+      },
+      {
+        "name": "Owner’s advisory support",
+        "outcome": "Structured support through sensitive phases, trade-offs and project coordination."
+      },
+      {
+        "name": "Audit and recovery",
+        "outcome": "Analysis of a blocked or insufficiently governed project to clarify risks and priority actions."
+      },
+      {
+        "name": "Full governance engagement",
+        "outcome": "Documentary and operational steering of the project according to PATRIGOV principles."
+      }
+    ]
+  },
+  "audience": {
+    "eyebrow": "For whom",
+    "title": "Public and private project owners",
+    "text": "Institutions, local authorities, development agencies, investors and project owners engaged in complex or sensitive operations."
+  },
+  "finalCta": "Describe your project so we can identify the right form of support.",
+  "finalCtaLabel": "Describe your need"
+}

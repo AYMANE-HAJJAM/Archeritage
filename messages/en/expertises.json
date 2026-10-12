@@ -1,0 +1,203 @@
+{
+  "overview": {
+    "eyebrow": "Expertises",
+    "title": "Land, major architecture and heritage",
+    "introduction": "Twelve competencies, organised around three imperatives: understand, design, secure.",
+    "supporting": "Three complementary fields to structure, steer and secure complex projects.",
+    "governanceEyebrow": "Cross-cutting signature",
+    "governanceTitle": "Documentary governance",
+    "governance": "Across all three pillars, ARCHERITAGE applies the same standard: structure responsibilities, document decisions and clarify trade-offs — formalised in PATRIGOV.",
+    "finalCta": "Let us identify together the expertise and engagement format suited to your project."
+  },
+  "sections": {
+    "understand": {
+      "eyebrow": "A",
+      "title": "Understand heritage",
+      "introduction": "Build solid knowledge of the place before any transformation.",
+      "cards": [
+        {
+          "title": "Heritage architecture",
+          "text": "Read architectural values, uses and the evolution potential of heritage buildings, fabrics and sites."
+        },
+        {
+          "title": "Heritage and architectural diagnosis",
+          "text": "Qualify condition, vulnerabilities, constraints and possible intervention directions."
+        },
+        {
+          "title": "Historical, constructive and material reading",
+          "text": "Understand construction systems, materials, traces and successive transformations of the built fabric."
+        }
+      ]
+    },
+    "transform": {
+      "eyebrow": "B",
+      "title": "Transform with judgement",
+      "introduction": "Reconcile conservation, use, feasibility and architectural quality.",
+      "cards": [
+        {
+          "title": "Restoration, rehabilitation and adaptive reuse",
+          "text": "Define a responsible intervention attentive to the place’s value and its new use trajectory."
+        },
+        {
+          "title": "Heritage, territory and urban identity",
+          "text": "Situate the project within its urban, cultural, social and territorial context."
+        },
+        {
+          "title": "Valorisation, transmission and heritage narrative",
+          "text": "Make history, choices and know-how legible in order to better transmit heritage value."
+        }
+      ]
+    },
+    "master": {
+      "eyebrow": "C",
+      "title": "Master complex projects",
+      "introduction": "Give project owners a clear view of responsibilities, risks and real progress.",
+      "cards": [
+        {
+          "title": "Project ownership and institutional projects",
+          "text": "Frame the need, prepare decisions and support sensitive phases of an operation."
+        },
+        {
+          "title": "Documentary governance and traceability",
+          "text": "Organise documents, validations and the memory of trade-offs."
+        },
+        {
+          "title": "Steering of complex heritage worksites",
+          "text": "Coordinate information, track risks and support decisions during execution."
+        },
+        {
+          "title": "Audit, recovery and project securing",
+          "text": "Analyse gaps, reconstruct facts and restore an operational control framework."
+        }
+      ]
+    },
+    "decide": {
+      "eyebrow": "D",
+      "title": "Structure decision-making",
+      "introduction": "Turn complexity into useful, ranked and actionable information.",
+      "cards": [
+        {
+          "title": "Frameworks, methods and tools",
+          "text": "Create procedures, matrices and dashboards suited to the project’s real functioning."
+        },
+        {
+          "title": "Strategic heritage advisory",
+          "text": "Clarify orientations, investment priorities and valorisation trajectories."
+        }
+      ]
+    }
+  },
+  "detailCta": {
+    "title": "Mobilise the expertises useful to your project",
+    "text": "Archeritage shapes its engagement according to the place, the stakes and the complexity of the operation.",
+    "label": "Contact us"
+  },
+  "labels": {
+    "competencies": "Competencies",
+    "projectNeeds": "When to mobilise this expertise",
+    "clientProfiles": "Relevant profiles",
+    "interventionFormats": "Engagement formats",
+    "patrigov": "Link with PATRIGOV"
+  },
+  "details": {
+    "valorisation-fonciere": {
+      "shortTitle": "Land",
+      "eyebrow": "Expertise 01",
+      "title": "Land and territorial valorisation",
+      "introduction": "Understand a site’s potential and structure a land operation before structuring decisions.",
+      "imageAlt": "Aerial view of a land site structured by its plots and access routes",
+      "competencies": [
+        "Feasibility studies and parcel optimisation",
+        "Subdivision design and urban insertion",
+        "Territorial valorisation strategies for public authorities and investors",
+        "Regulatory analysis and structuring of complex land operations"
+      ],
+      "projectNeeds": [
+        "Assess a site before acquisition or decision",
+        "Structure a land operation",
+        "Reduce regulatory and operational risks"
+      ],
+      "clientProfiles": [
+        "Investors",
+        "Real-estate developers",
+        "Landowners",
+        "Local authorities",
+        "Public institutions"
+      ],
+      "interventionFormats": [
+        "Flash diagnosis",
+        "Feasibility study",
+        "Owner’s advisory support",
+        "Territorial valorisation strategy"
+      ],
+      "patrigovConnection": "Complex land operations require rigorous documentary governance: structure responsibilities, document trade-offs and secure decisions at every stage.",
+      "contactCtaLabel": "Present a site or an operation"
+    },
+    "architecture-projets-envergure": {
+      "shortTitle": "Architecture",
+      "eyebrow": "Expertise 02",
+      "title": "Architecture and major projects",
+      "introduction": "Design, coordinate and steer public buildings, collective facilities and multi-stakeholder operations.",
+      "imageAlt": "Contemporary architecture of a large-scale facility",
+      "competencies": [
+        "Architectural design of public buildings and collective facilities",
+        "Coordination of multi-stakeholder and institutional projects",
+        "Delegated project ownership and owner’s advisory support",
+        "Audit, recovery and securing of projects in difficulty"
+      ],
+      "projectNeeds": [
+        "Design a building or a facility",
+        "Coordinate a multi-stakeholder operation",
+        "Secure a complex or distressed project"
+      ],
+      "clientProfiles": [
+        "Project owners",
+        "Public institutions",
+        "Local authorities",
+        "Private operators",
+        "Programme managers"
+      ],
+      "interventionFormats": [
+        "Flash diagnosis",
+        "Feasibility study",
+        "Owner’s advisory support",
+        "Audit and recovery"
+      ],
+      "patrigovConnection": "Multi-stakeholder projects require clear governance: validation circuits, responsibility matrix, decision traceability and secured trade-offs.",
+      "contactCtaLabel": "Discuss an architectural project"
+    },
+    "valorisation-patrimoine": {
+      "shortTitle": "Heritage",
+      "eyebrow": "Expertise 03",
+      "title": "Heritage valorisation",
+      "introduction": "Diagnose, restore, rehabilitate and revalue built heritage — from reading the place to its territorial enhancement.",
+      "imageAlt": "Heritage ensemble of the Tiznit kasbah and Mechouar square",
+      "competencies": [
+        "Heritage diagnosis and historical, constructive and material reading",
+        "Restoration, rehabilitation and adaptive reuse of historic buildings",
+        "Territorial valorisation of historic sites, kasbahs and medinas",
+        "Documentation, transmission and heritage narrative"
+      ],
+      "projectNeeds": [
+        "Understand and diagnose a historic building",
+        "Restore, rehabilitate or adaptively reuse",
+        "Valorise a historic site within its territory"
+      ],
+      "clientProfiles": [
+        "Public institutions",
+        "Local authorities",
+        "Owners of historic buildings",
+        "Cultural organisations",
+        "Project owners"
+      ],
+      "interventionFormats": [
+        "Heritage diagnosis",
+        "Feasibility study",
+        "Owner’s advisory support",
+        "Full governance engagement"
+      ],
+      "patrigovConnection": "Heritage restoration demands impeccable documentation: every decision, trade-off and intervention must be traceable and legally secured.",
+      "contactCtaLabel": "Present a heritage site"
+    }
+  }
+}

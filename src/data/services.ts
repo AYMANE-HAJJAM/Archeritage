@@ -1,0 +1,88 @@
+import type { Service } from '@/types';
+
+export const services: Service[] = [
+  {
+    slug: 'diagnostic-patrimonial',
+    eyebrow: '01',
+    title: 'Études patrimoniales & relevés',
+    description: 'Analyse historique, relevés, lecture constructive, état sanitaire et identification des enjeux de conservation.',
+    intro:
+      'Comprendre un bâtiment ancien avant toute décision: son histoire, ses transformations, ses pathologies, ses contraintes et son potentiel de transmission.',
+    visualType: 'diagnostic',
+    visualLabel: 'Lecture du bâti',
+    icon: 'Diagnostic',
+    highlights: ['Lecture historique', 'Relevés architecturaux', 'État sanitaire', 'Enjeux de conservation'],
+    process: ['Observation du lieu', 'Analyse documentaire', 'Relevés', 'Synthèse des pathologies', 'Recommandations'],
+    relatedProjectSlugs: ['releve-diagnostic-batiment-ancien', 'mosquee-de-tinmel'],
+  },
+  {
+    slug: 'restauration-rehabilitation',
+    eyebrow: '02',
+    title: 'Restauration & réhabilitation',
+    description: 'Interventions architecturales respectueuses des matériaux, des techniques traditionnelles et de la mémoire du lieu.',
+    intro:
+      'Restaurer et réhabiliter sans effacer: préserver la valeur patrimoniale tout en permettant au lieu de retrouver un usage clair et durable.',
+    visualType: 'restoration',
+    visualLabel: 'Matières & conservation',
+    icon: 'Restauration',
+    highlights: ['Prescriptions patrimoniales', 'Matériaux compatibles', 'Détails de restauration', 'Coordination technique'],
+    process: ['Diagnostic', 'Stratégie d’intervention', 'Dossier technique', 'Consultation des intervenants', 'Suivi des détails'],
+    relatedProjectSlugs: ['mosquee-de-tinmel', 'gran-teatro-cervantes'],
+  },
+  {
+    slug: 'reconversion-valorisation',
+    eyebrow: '03',
+    title: 'Reconversion & valorisation',
+    description: 'Transformer un lieu patrimonial en espace utile, culturel, touristique ou privé sans perdre son identité.',
+    intro:
+      'Révéler le potentiel d’un lieu ancien en construisant un nouvel usage compatible avec son histoire, son contexte et sa matière.',
+    visualType: 'reconversion',
+    visualLabel: 'Nouveaux usages',
+    icon: 'Reconversion',
+    highlights: ['Scénarios d’usage', 'Valorisation culturelle', 'Mise en récit patrimonial', 'Compatibilité avec l’existant'],
+    process: ['Lecture du potentiel', 'Hypothèses de reconversion', 'Programme', 'Phasage', 'Valorisation'],
+    relatedProjectSlugs: ['kasbah-de-tiznit', 'accompagnement-investisseur-patrimonial'],
+  },
+  {
+    slug: 'accompagnement-investisseurs',
+    eyebrow: '04',
+    title: 'Accompagnement investisseurs',
+    description: 'Conseil stratégique pour les investisseurs marocains, MRE et étrangers souhaitant développer un projet au Maroc.',
+    intro:
+      'Aider les porteurs de projets à comprendre le contexte local, les contraintes patrimoniales, les étapes administratives et le potentiel réel d’un site.',
+    visualType: 'investor',
+    visualLabel: 'Conseil stratégique',
+    icon: 'Investissement',
+    highlights: ['Lecture du contexte local', 'Conseil stratégique', 'Faisabilité patrimoniale', 'Coordination au Maroc'],
+    process: ['Cadrage', 'Analyse du site', 'Risques et opportunités', 'Feuille de route', 'Accompagnement local'],
+    relatedProjectSlugs: ['accompagnement-investisseur-patrimonial', 'releve-diagnostic-batiment-ancien'],
+  },
+  {
+    slug: 'etudes-autorisations',
+    eyebrow: '05',
+    title: 'Études & autorisations',
+    description: 'Préparation des dossiers, coordination avec les acteurs locaux et accompagnement administratif selon le contexte du projet.',
+    intro:
+      'Structurer les pièces nécessaires à l’avancement d’un projet patrimonial, avec une attention aux exigences réglementaires et aux interlocuteurs locaux.',
+    visualType: 'studies',
+    visualLabel: 'Dossiers & coordination',
+    icon: 'Études',
+    highlights: ['Études de faisabilité', 'Dossiers administratifs', 'Coordination locale', 'Documents de synthèse'],
+    process: ['Cadrage réglementaire', 'Pièces graphiques', 'Notes techniques', 'Échanges locaux', 'Suivi du dossier'],
+    relatedProjectSlugs: ['kasbah-de-tiznit', 'accompagnement-investisseur-patrimonial'],
+  },
+  {
+    slug: 'suivi-chantier-patrimonial',
+    eyebrow: '06',
+    title: 'Suivi de chantier patrimonial',
+    description: 'Suivi des travaux, coordination des intervenants, contrôle des détails et respect des prescriptions patrimoniales.',
+    intro:
+      'Accompagner l’exécution pour maintenir la cohérence patrimoniale du projet, depuis les détails constructifs jusqu’aux arbitrages de chantier.',
+    visualType: 'site',
+    visualLabel: 'Exécution maîtrisée',
+    icon: 'Chantier',
+    highlights: ['Coordination des intervenants', 'Contrôle des détails', 'Respect des prescriptions', 'Transmission des savoir-faire'],
+    process: ['Préparation chantier', 'Suivi des interventions', 'Arbitrages techniques', 'Contrôle qualité', 'Réception'],
+    relatedProjectSlugs: ['gran-teatro-cervantes', 'mosquee-de-tinmel'],
+  },
+];

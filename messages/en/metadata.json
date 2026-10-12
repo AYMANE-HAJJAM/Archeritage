@@ -1,0 +1,59 @@
+{
+  "siteName": "ARCHERITAGE",
+  "siteDescription": "Architecture practice in Casablanca: land and territorial valorisation, major projects and heritage valorisation.",
+  "home": {
+    "title": "ARCHERITAGE — Architecture practice",
+    "description": "ARCHERITAGE supports institutions, public authorities, investors and project owners in site valorisation, the design of major projects and the transformation of built heritage."
+  },
+  "cabinet": {
+    "title": "Practice",
+    "description": "ARCHERITAGE brings together architecture, urban planning, land analysis, heritage and governance to design, safeguard and enhance projects."
+  },
+  "expertises": {
+    "title": "Expertises",
+    "description": "Twelve competencies, organised around three imperatives: understand, design, secure."
+  },
+  "expertiseDetails": {
+    "valorisation-fonciere": {
+      "title": "Land and territorial valorisation | ARCHERITAGE",
+      "description": "Archeritage supports feasibility studies, parcel optimisation, structuring of land operations and territorial valorisation strategies for public authorities and investors."
+    },
+    "architecture-projets-envergure": {
+      "title": "Architecture and major projects | ARCHERITAGE",
+      "description": "Archeritage designs and steers public buildings, collective facilities and complex institutional operations, with rigorous project governance."
+    },
+    "valorisation-patrimoine": {
+      "title": "Heritage valorisation | ARCHERITAGE",
+      "description": "Archeritage supports the diagnosis, restoration, rehabilitation and territorial valorisation of built heritage — monuments, kasbahs and medinas."
+    }
+  },
+  "missions": {
+    "title": "Choose the right level of support",
+    "description": "From a targeted diagnosis to full governance, ARCHERITAGE adapts its engagement to the project’s real state, the decisions required and the stakeholders involved."
+  },
+  "method": {
+    "title": "PATRIGOV by Archeritage",
+    "description": "The proprietary method that makes a complex project legible, documented and controllable."
+  },
+  "references": {
+    "title": "Selected references",
+    "description": "A selection of territorial, institutional and heritage engagements that form the experiential foundation of ARCHERITAGE."
+  },
+  "referenceDetailSuffix": "References | ARCHERITAGE",
+  "journal": {
+    "title": "Archeritage Journal",
+    "description": "Thoughts, notes and perspectives on architecture, heritage and complex projects."
+  },
+  "contact": {
+    "title": "Contact — Introduce a project | Archeritage",
+    "description": "Tell Archeritage about your land, asset, building or project so we can identify the right level of support."
+  },
+  "mentionsLegales": {
+    "title": "Legal Notice | ARCHERITAGE",
+    "description": "Legal information and terms of use for the ARCHERITAGE website."
+  },
+  "confidentialite": {
+    "title": "Privacy Policy | ARCHERITAGE",
+    "description": "Processing of data submitted to ARCHERITAGE through the contact form."
+  }
+}

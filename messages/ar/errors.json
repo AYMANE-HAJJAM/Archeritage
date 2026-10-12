@@ -1,0 +1,12 @@
+{
+  "notFound": {
+    "eyebrow": "خطأ 404",
+    "title": "الصفحة المطلوبة غير موجودة.",
+    "text": "قد يكون الرابط قد تغيّر أو لم يعد المورد موجوداً. عودوا إلى الصفحة الرئيسية لاستئناف التصفح.",
+    "backHome": "العودة إلى الصفحة الرئيسية",
+    "contact": "اتصلوا بنا"
+  },
+  "expertiseNotFound": "الخبرة غير موجودة | ARCHERITAGE",
+  "referenceNotFound": "المرجع غير موجود | ARCHERITAGE",
+  "journalNotFound": "المنشور غير موجود | ARCHERITAGE"
+}

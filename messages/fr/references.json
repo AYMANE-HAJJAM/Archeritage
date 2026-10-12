@@ -1,0 +1,61 @@
+{
+  "eyebrow": "Références",
+  "title": "Références sélectionnées",
+  "introduction": "Une sélection de missions territoriales, institutionnelles et patrimoniales qui constitue le socle d’expérience d’ARCHERITAGE.",
+  "attribution": "Ces références relèvent du parcours professionnel du fondateur.",
+  "founderAttribution": "Expérience professionnelle du fondateur",
+  "listingOnlyLabel": "Fiche en cours de documentation",
+  "sectionTitles": {
+    "contexte": "Contexte",
+    "mission": "Mission conduite",
+    "enjeux": "Enjeux",
+    "approche": "Approche"
+  },
+  "finalCta": "Discuter d’une référence ou d’un projet comparable.",
+  "detailFinalCta": "Vous portez un projet comparable ?",
+  "items": {
+    "tinmel": {
+      "title": "Mosquée de Tinmel",
+      "institution": "Ministère des Habous",
+      "location": "Tinmel",
+      "imageAlt": "Architecture patrimoniale de la mosquée de Tinmel",
+      "summary": "Restauration d’un édifice historique du Haut Atlas, entre lecture du lieu et gouvernance de chantier.",
+      "role": "Coordination technique et gouvernance documentaire",
+      "missionType": "Restauration patrimoniale",
+      "sections": {
+        "contexte": "Restauration d’un édifice historique majeur du Haut Atlas.",
+        "mission": "Lecture historique, coordination technique et gouvernance documentaire du chantier.",
+        "approche": "Une conduite de mission structurée autour de la traçabilité et de la coordination."
+      }
+    },
+    "tiznit": {
+      "title": "Kasbah de Tiznit et Place Mechouar",
+      "location": "Tiznit",
+      "imageAlt": "Ensemble patrimonial de la kasbah de Tiznit et de la place Mechouar",
+      "summary": "Valorisation d’un ensemble historique urbain, entre restauration et usage contemporain.",
+      "role": "Restauration et mise en usage",
+      "missionType": "Valorisation patrimoniale",
+      "sections": {
+        "contexte": "Valorisation patrimoniale d’un ensemble historique urbain.",
+        "mission": "Restauration et mise en usage contemporaine."
+      }
+    },
+    "cervantes": {
+      "title": "Théâtre Cervantès — Tanger",
+      "institution": "APDN",
+      "location": "Tanger",
+      "imageAlt": "Façade du Théâtre Cervantès à Tanger",
+      "summary": "Réhabilitation d’un patrimoine du XXe siècle, sous maîtrise d’ouvrage de l’APDN.",
+      "role": "Accompagnement de réhabilitation",
+      "missionType": "Patrimoine du XXe siècle"
+    },
+    "safi": {
+      "title": "Murailles portugaises et Château de Mer — Safi",
+      "institution": "Direction régionale de la Culture",
+      "location": "Safi",
+      "summary": "Intervention sur un monument classé du XVIe siècle, en lien avec la Direction régionale de la Culture.",
+      "role": "Intervention sur monument classé",
+      "missionType": "Restauration patrimoniale"
+    }
+  }
+}

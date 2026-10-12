@@ -1,0 +1,208 @@
+{
+  "hero": {
+    "eyebrow": "Architecture · Patrimoine · Territoires",
+    "title": "Comprendre le lieu. Révéler sa valeur.",
+    "introduction": "Architecture, ingénierie et gouvernance patrimoniale au service de projets durables et exigeants.",
+    "ctaPrimary": "Présenter un projet",
+    "ctaSecondary": "Découvrir nos solutions",
+    "controls": {
+      "sliderLabel": "Contrôles du diaporama",
+      "imageOf": "Image {current} sur {total}",
+      "previousImage": "Image précédente",
+      "nextImage": "Image suivante",
+      "pause": "Mettre le diaporama en pause",
+      "play": "Reprendre le diaporama"
+    }
+  },
+  "proofNote": "Repères issus du parcours du fondateur · PATRIGOV, méthode de gouvernance ARCHERITAGE.",
+  "stats": [
+    {
+      "value": "35 ans",
+      "label": "d’expérience territoriale"
+    },
+    {
+      "value": "UNESCO / UNDP",
+      "label": "Médina de Fès"
+    },
+    {
+      "value": "1er prêt",
+      "label": "Banque mondiale, ville de Casablanca"
+    },
+    {
+      "value": "PATRIGOV",
+      "label": "méthode propriétaire de gouvernance"
+    }
+  ],
+  "pillars": {
+    "eyebrow": "Nos trois piliers",
+    "title": "Trois expertises, une seule exigence de maîtrise",
+    "intro": "Du foncier au patrimoine, trois familles d’intervention reliées par une même exigence de cadrage.",
+    "items": {
+      "valorisation-fonciere": {
+        "title": "Valorisation foncière et territoriale",
+        "description": "Faisabilité, optimisation parcellaire et stratégies de valorisation pour structurer le potentiel d’un site.",
+        "imageAlt": "Vue aérienne d’un site foncier structuré par ses parcelles et ses accès",
+        "competencies": [
+          "Études de faisabilité et optimisation parcellaire",
+          "Conception de lotissements et insertion urbaine",
+          "Stratégies de valorisation pour collectivités et investisseurs",
+          "Analyse réglementaire et structuration d’opérations foncières"
+        ]
+      },
+      "architecture-projets-envergure": {
+        "title": "Architecture et projets d’envergure",
+        "description": "Concevoir et piloter équipements et opérations multi-acteurs avec une gouvernance claire.",
+        "imageAlt": "Architecture contemporaine d’un équipement de grande envergure",
+        "competencies": [
+          "Conception de bâtiments publics et d’équipements collectifs",
+          "Coordination de projets multi-acteurs et institutionnels",
+          "Maîtrise d’ouvrage déléguée et assistance à maîtrise d’ouvrage",
+          "Audit, redressement et sécurisation de projets en difficulté"
+        ]
+      },
+      "valorisation-patrimoine": {
+        "title": "Valorisation du patrimoine",
+        "description": "Diagnostiquer, restaurer et reconvertir monuments et sites historiques pour les mettre en valeur.",
+        "imageAlt": "Ensemble patrimonial de la kasbah de Tiznit et de la place Mechouar",
+        "competencies": [
+          "Diagnostic patrimonial et lecture historique et constructive",
+          "Restauration, réhabilitation et reconversion de bâtiments anciens",
+          "Valorisation territoriale de sites historiques, kasbahs et médinas",
+          "Documentation, transmission et récit patrimonial"
+        ]
+      }
+    }
+  },
+  "clients": {
+    "eyebrow": "À qui s’adresse Archeritage ?",
+    "title": "Votre projet. Votre contexte. Notre manière d’intervenir.",
+    "text": "ARCHERITAGE adapte son intervention au profil du maître d’ouvrage et au cadre réel de décision.",
+    "segments": {
+      "collectivite": {
+        "title": "Collectivités & institutions",
+        "points": [
+          "Gouvernance territoriale",
+          "Projets publics",
+          "Coordination multi-acteurs"
+        ],
+        "cta": "Présenter votre projet public"
+      },
+      "investisseur": {
+        "title": "Investisseurs & promoteurs",
+        "points": [
+          "Valorisation foncière",
+          "Faisabilité",
+          "Optimisation parcellaire"
+        ],
+        "cta": "Évaluer le potentiel du site"
+      },
+      "maitre-ouvrage": {
+        "title": "Maîtres d’ouvrage",
+        "points": [
+          "Architecture",
+          "Projets d’envergure",
+          "Pilotage"
+        ],
+        "cta": "Discuter du projet"
+      }
+    }
+  },
+  "situations": {
+    "title": "Quelle est votre situation ?",
+    "items": {
+      "potentiel-foncier": {
+        "title": "Vous possédez un terrain",
+        "category": "Terrain",
+        "description": "Évaluez son potentiel constructible, ses contraintes et ses possibilités de valorisation.",
+        "cta": "Analyser mon terrain"
+      },
+      "valorisation-actif": {
+        "title": "Vous détenez un actif immobilier",
+        "category": "Actif immobilier",
+        "description": "Identifiez les blocages et les scénarios permettant de mieux l’exploiter, le transformer ou le commercialiser.",
+        "cta": "Valoriser mon actif"
+      },
+      "esquisse-decisionnelle": {
+        "title": "Vous préparez un projet architectural",
+        "category": "Projet architectural",
+        "description": "Testez votre programme et vos premières orientations avant d’engager une mission complète.",
+        "cta": "Étudier mon projet"
+      },
+      "diagnostic-patrimoine": {
+        "title": "Vous intervenez sur un bâtiment ancien",
+        "category": "Bâtiment ancien",
+        "description": "Identifiez ses valeurs, ses vulnérabilités et les études nécessaires avant toute intervention.",
+        "cta": "Diagnostiquer le bâtiment"
+      }
+    }
+  },
+  "solutions": {
+    "eyebrow": "Nos solutions",
+    "title": "Les Solutions Archeritage",
+    "startingAt": "À partir de",
+    "pricingNote": "Tarif indicatif. Le montant définitif dépend du périmètre, de la complexité et des documents disponibles.",
+    "discoverAll": "Trouver la solution adaptée",
+    "items": {
+      "potentiel-foncier": {
+        "title": "Potentiel Foncier",
+        "category": "Foncier",
+        "description": "Analyse préalable d’un terrain avant acquisition, construction ou vente.",
+        "cta": "Vérifier cette solution"
+      },
+      "valorisation-actif": {
+        "title": "Valorisation d’actif",
+        "category": "Actif",
+        "description": "Diagnostic et repositionnement d’un actif inexploité ou invendu.",
+        "cta": "Vérifier cette solution"
+      },
+      "esquisse-decisionnelle": {
+        "title": "Esquisse Décisionnelle",
+        "category": "Architecture",
+        "description": "Première vision architecturale avant une étude complète.",
+        "cta": "Vérifier cette solution"
+      },
+      "diagnostic-patrimoine": {
+        "title": "Diagnostic Patrimoine",
+        "category": "Patrimoine",
+        "description": "Lecture architecturale et patrimoniale d’un bâtiment ancien.",
+        "cta": "Vérifier cette solution"
+      },
+      "projet-patrimonial-securise": {
+        "title": "Projet Patrimonial Sécurisé",
+        "category": "Gouvernance",
+        "description": "Gouvernance, risques, validations et pilotage d’un projet complexe.",
+        "cta": "Vérifier cette solution"
+      }
+    }
+  },
+  "method": {
+    "eyebrow": "Notre démarche",
+    "title": "Une démarche structurée",
+    "intro": "Cinq étapes pour préparer, éclairer et accompagner chaque décision.",
+    "cta": "Découvrir notre méthode",
+    "steps": [
+      { "title": "Cadrer", "text": "Comprendre le bien, les objectifs du client et les décisions à préparer.", "outcome": "Périmètre défini" },
+      { "title": "Analyser", "text": "Examiner le contexte architectural, foncier, urbain, immobilier et patrimonial.", "outcome": "Diagnostic établi" },
+      { "title": "Concevoir", "text": "Construire des scénarios cohérents, réalistes et adaptés aux contraintes.", "outcome": "Scénarios comparables" },
+      { "title": "Recommander", "text": "Présenter une orientation claire, hiérarchisée et argumentée.", "outcome": "Orientation argumentée" },
+      { "title": "Accompagner", "text": "Transformer l’orientation retenue en projet, mission ou feuille de route.", "outcome": "Mise en œuvre cadrée" }
+    ]
+  },
+  "diagnostic": {
+    "eyebrow": "Diagnostic vivant",
+    "title": "Du réel à la stratégie",
+    "intro": "Une lecture fine du bâti, de son histoire et de son contexte pour révéler les enjeux, les potentiels et les scénarios d’intervention.",
+    "cta": "Explorer notre approche",
+    "stages": ["État existant", "Lecture architecturale", "Structure et vulnérabilités", "Matériaux et traces", "Scénario d’intervention", "Transformation et restauration"]
+  },
+  "references": {
+    "eyebrow": "Expérience fondatrice",
+    "title": "Références sélectionnées",
+    "attribution": "Ces références relèvent du parcours professionnel du fondateur."
+  },
+  "finalCta": {
+    "title": "Un terrain, un actif ou un projet à examiner ?",
+    "text": "Transmettez-nous les premières informations disponibles. Archeritage vous proposera la modalité d’intervention la plus adaptée.",
+    "label": "Présenter mon projet"
+  }
+}

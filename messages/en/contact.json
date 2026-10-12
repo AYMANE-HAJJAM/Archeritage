@@ -1,0 +1,91 @@
+{
+  "title": "Introduce your project in a few minutes",
+  "promise": "Tell us the essentials: your profile, the type of site or project, its current stage and the decision you need to prepare for.",
+  "introduction": "To protect your information, please do not send any confidential or sensitive documents with this initial enquiry.",
+  "labels": {
+    "eyebrow": "Contact",
+    "detailsEyebrow": "Direct contact",
+    "detailsTitle": "Contact details",
+    "reasonsEyebrow": "Reach out for",
+    "formEyebrow": "Your request",
+    "formTitle": "Describe your project"
+  },
+  "reasons": [
+    "a land feasibility study or territorial valorisation",
+    "an architectural project or multi-stakeholder operation",
+    "a diagnosis, restoration or heritage rehabilitation",
+    "owner’s advisory support or a project audit",
+    "a partnership or professional contribution"
+  ],
+  "form": {
+    "fullName": "Full name",
+    "organization": "Organisation",
+    "profile": "Profile",
+    "email": "Email",
+    "phone": "Phone",
+    "projectType": "Need",
+    "projectLocation": "Location",
+    "message": "Message",
+    "website": "Website",
+    "submit": "Send my request",
+    "submitting": "Sending…",
+    "select": "Select",
+    "privacyConsent": "I agree to Archeritage using the information I provide to review my enquiry and respond to me, in accordance with the <privacy>privacy policy</privacy>.",
+    "publicationsConsent": "I would like to receive Archeritage publications.",
+    "requiredNote": "Fields marked * are required."
+  },
+  "profiles": {
+    "proprietaire": "Property owner",
+    "investisseur": "Investor",
+    "promoteur": "Developer",
+    "maitre-ouvrage": "Project owner",
+    "collectivite": "Institution / Local authority",
+    "entreprise": "Company",
+    "professionnel": "Industry professional",
+    "autre": "Other"
+  },
+  "projectTypes": {
+    "architecture": "Architecture and design",
+    "foncier": "Land analysis and feasibility",
+    "valorisation-immobiliere": "Real estate value enhancement",
+    "patrimoine": "Heritage and rehabilitation",
+    "gouvernance": "Governance of complex projects",
+    "potentiel-foncier": "Land Potential",
+    "valorisation-actif": "Asset Enhancement",
+    "esquisse-decisionnelle": "Decision Sketch",
+    "diagnostic-patrimoine": "Heritage Assessment",
+    "projet-patrimonial-securise": "Secured Heritage Project",
+    "cadrage-mission": "Mission Scoping",
+    "autre": "Other"
+  },
+  "validation": {
+    "fullName": "Please enter your full name.",
+    "email": "Please enter a valid email address.",
+    "profile": "Please select your profile.",
+    "projectType": "Please select a need.",
+    "messageMin": "Please enter your message.",
+    "phone": "Please check your phone number.",
+    "privacyConsent": "Your consent is required to process your enquiry.",
+    "tooLong": "This text is too long. Please shorten it."
+  },
+  "status": {
+    "success": "Your enquiry has been received",
+    "sendFailed": "The request could not be sent.",
+    "genericError": "The sending service could not be reached. Your information has been kept; please try again.",
+    "rateLimited": "Too many requests. Please try again in a few minutes.",
+    "unreadable": "The request could not be read. Check the form and try again.",
+    "invalid": "Please check the form information.",
+    "unavailable": "The form is temporarily unavailable. Please try again later.",
+    "transmissionFailed": "The request could not be transmitted. Please try again later.",
+    "noAttachments": "Attachments are not accepted with an initial enquiry."
+  },
+  "selectedContext": "You selected: {name}",
+  "call": "Call Archeritage",
+  "whatsapp": "Message us on WhatsApp",
+  "confirmation": {
+    "title": "Your enquiry has been received",
+    "text": "Thank you for your message. Our team will review the information you provided to prepare a useful initial conversation. No additional confidential documents are needed at this stage.",
+    "home": "Return to the homepage",
+    "references": "Explore our references"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "home": "Accueil",
+  "cabinet": "Cabinet",
+  "expertises": "Expertises",
+  "missions": "Missions",
+  "method": "Méthode",
+  "solutions": "Solutions",
+  "offer": "Offre",
+  "references": "Références",
+  "journal": "Journal",
+  "contact": "Contact",
+  "dropdowns": {
+    "offer": {
+      "toggle": "Afficher l’offre"
+    },
+    "missions": {
+      "toggle": "Afficher les missions",
+      "viewAll": "Voir toutes les missions",
+      "items": {
+        "architecture": { "title": "Architecture et conception", "description": "Conception, transformation et accompagnement de projets architecturaux." },
+        "land": { "title": "Analyse foncière et faisabilité", "description": "Lecture du potentiel, des contraintes et des scénarios possibles." },
+        "realEstate": { "title": "Valorisation immobilière", "description": "Repositionnement et transformation d’actifs immobiliers." },
+        "heritage": { "title": "Patrimoine et réhabilitation", "description": "Diagnostic, conservation, réhabilitation et reconversion." },
+        "governance": { "title": "Gouvernance et sécurisation de projets", "description": "Responsabilités, validations, risques et pilotage." }
+      }
+    },
+    "expertises": {
+      "toggle": "Afficher les expertises",
+      "viewAll": "Voir toutes les expertises",
+      "items": {
+        "architecture": { "title": "Conception architecturale", "description": "Concevoir, transformer et restructurer des bâtiments selon leur contexte." },
+        "land": { "title": "Urbanisme et foncier", "description": "Analyser les règles, capacités constructibles et contraintes du site." },
+        "heritage": { "title": "Patrimoine architectural", "description": "Lire les valeurs historiques, architecturales et constructives d’un bâtiment." },
+        "realEstate": { "title": "Valorisation immobilière", "description": "Identifier les usages, blocages et possibilités de transformation d’un actif." },
+        "complexProjects": { "title": "Ingénierie des projets complexes", "description": "Structurer responsabilités, validations, risques et pilotage." }
+      }
+    },
+    "solutions": {
+      "toggle": "Afficher les Solutions",
+      "viewAll": "Voir toutes les Solutions",
+      "items": {
+        "landPotential": { "title": "Potentiel Foncier", "description": "Analyser un terrain avant acquisition, construction ou vente." },
+        "assetValorisation": { "title": "Valorisation d’actif", "description": "Identifier les blocages et repositionner un actif immobilier." },
+        "decisionSketch": { "title": "Esquisse Décisionnelle", "description": "Tester une première vision architecturale avant une étude complète." },
+        "heritageDiagnosis": { "title": "Diagnostic Patrimoine", "description": "Comprendre un bâtiment ancien avant toute intervention." },
+        "securedHeritageProject": { "title": "Projet Patrimonial Sécurisé", "description": "Structurer la gouvernance et sécuriser une opération complexe." }
+      }
+    }
+  },
+  "changeLanguage": "Changer de langue",
+  "changeLanguageAria": "Changer de langue. Langue actuelle : {language}",
+  "languageSection": "Langue",
+  "languageMenu": "Sélection de la langue",
+  "locales": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

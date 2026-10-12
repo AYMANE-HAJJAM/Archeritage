@@ -1,0 +1,64 @@
+{
+  "eyebrow": "Journal",
+  "title": "Archeritage Journal",
+  "introduction": "Thoughts, notes and perspectives on architecture, heritage and complex projects.",
+  "editorialLine": "Editorial line: publish little, but publish precisely.",
+  "forthcoming": "Forthcoming",
+  "upcomingTitle": "Upcoming publications",
+  "rubrics": {
+    "eyebrow": "Rubrics",
+    "title": "A tightly focused editorial line",
+    "intro": "The Journal is organised around four complementary editorial approaches."
+  },
+  "categories": {
+    "notes-de-doctrine": "Doctrine notes",
+    "regards-sur-le-patrimoine": "Heritage perspectives",
+    "carnets-de-projets": "Project notebooks",
+    "methode-et-gouvernance": "Method and governance"
+  },
+  "editorialRubrics": {
+    "notes-de-doctrine": {
+      "title": "Doctrine notes",
+      "description": "ARCHERITAGE’s professional positions on land, architecture, heritage and the steering of complex projects."
+    },
+    "regards-sur-le-patrimoine": {
+      "title": "Heritage perspectives",
+      "description": "Readings of places, buildings and territories to understand their history, transformations and potential."
+    },
+    "carnets-de-projets": {
+      "title": "Project notebooks",
+      "description": "Fragments of method, field observations and lessons drawn from professional situations that can be shared publicly."
+    },
+    "methode-et-gouvernance": {
+      "title": "Method and governance",
+      "description": "The principles of PATRIGOV, documentary governance and the tools that clarify, secure and steer a project."
+    }
+  },
+  "posts": {
+    "valorisation-fonciere-diagnostic-prealable": {
+      "title": "Land valorisation: what a prior diagnosis truly changes",
+      "description": "Doctrine note on the value of a feasibility study before any land decision.",
+      "category": "Doctrine notes",
+      "imageAlt": "Aerial view of a structured residential territory",
+      "status": "Forthcoming"
+    },
+    "tinmel-116-jours-retard": {
+      "title": "Tinmel: documenting 116 days of delay to secure a heritage worksite",
+      "description": "Field insight on applying documentary governance to a real restoration worksite.",
+      "category": "Method and governance",
+      "imageAlt": "Heritage architecture of the Tinmel Mosque",
+      "status": "Forthcoming"
+    },
+    "restauration-rehabilitation-reconversion": {
+      "title": "Restoration, rehabilitation, adaptive reuse: three words too often confused",
+      "description": "Doctrine note clarifying an essential distinction for every heritage project owner.",
+      "category": "Heritage perspectives",
+      "imageAlt": "Architectural structure under construction",
+      "status": "Forthcoming"
+    }
+  },
+  "finalCta": {
+    "title": "Discuss these subjects",
+    "text": "A question on land, heritage or project governance? Contact ARCHERITAGE."
+  }
+}

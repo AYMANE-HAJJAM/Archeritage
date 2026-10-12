@@ -1,0 +1,27 @@
+.contact-experience .contact-form label { font-size: .875rem; }
+.contact-experience .contact-form small { font-size: .8125rem; }
+.contact-experience .contact-form .contact-consent { display: flex; align-items: flex-start; gap: .75rem; line-height: 1.65; font-weight: 400; cursor: pointer; }
+.contact-experience .contact-consent input { flex: 0 0 1.25rem; width: 1.25rem; min-height: 1.25rem; height: 1.25rem; margin-top: .25rem; padding: 0; accent-color: var(--color-rust-text); }
+.contact-experience .contact-consent a { color: var(--color-rust-text); text-decoration: underline; text-underline-offset: .2em; }
+.contact-consents { border-top: 1px solid var(--color-border); padding-top: 1.25rem; }
+.contact-consent--optional { margin-top: 1rem; }
+.contact-context, .contact-required { margin: 0; color: var(--color-text-muted); font-size: .875rem; line-height: 1.6; }
+.contact-context { border-inline-start: 2px solid var(--color-rust-text); padding-inline-start: .75rem; }
+.contact-experience .contact-form button { width: 100%; min-height: 3.25rem; }
+.contact-experience .contact-form input[type=email], .contact-experience .contact-form input[type=tel] { direction: ltr; text-align: start; }
+.contact-mobile-call { display: none; }
+.contact-confirmation-actions { display: flex; flex-wrap: wrap; gap: 1rem; }
+/* Keep the existing assistant in document flow on these two routes, with its own
+   space after the footer, so its trigger cannot obscure controls while scrolling. */
+body:has(.contact-experience) .assistant-widget { position: relative; inset: auto; display: flex; justify-content: flex-end; padding: 1rem max(1rem, env(safe-area-inset-right)) max(1rem, env(safe-area-inset-bottom)); background: var(--color-ivory); }
+@media (max-width: 1023px) {
+  .contact-experience .contact-form-panel { order: -1; }
+}
+@media (max-width: 768px) {
+  .contact-experience .form-grid { grid-template-columns: minmax(0, 1fr); }
+  .contact-experience .contact-form-panel { padding: 1.25rem; min-width: 0; }
+  .contact-experience .contact-form { gap: 1.1rem; margin-top: 1.25rem; }
+  .contact-experience .page-hero { padding-bottom: 2rem; }
+  .contact-mobile-call { display: inline-flex; align-items: center; min-height: 2.75rem; margin-top: .75rem; color: var(--color-rust-text); text-decoration: underline; }
+  .contact-confirmation-actions { flex-direction: column; align-items: stretch; }
+}

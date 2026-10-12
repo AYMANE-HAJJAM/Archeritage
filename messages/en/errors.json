@@ -1,0 +1,12 @@
+{
+  "notFound": {
+    "eyebrow": "404 error",
+    "title": "The requested page could not be found.",
+    "text": "The link may have changed or the resource no longer exists. Return home to continue navigating.",
+    "backHome": "Back to home",
+    "contact": "Contact us"
+  },
+  "expertiseNotFound": "Expertise not found | ARCHERITAGE",
+  "referenceNotFound": "Reference not found | ARCHERITAGE",
+  "journalNotFound": "Publication not found | ARCHERITAGE"
+}

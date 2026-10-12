@@ -1,0 +1,61 @@
+{
+  "eyebrow": "References",
+  "title": "Selected references",
+  "introduction": "A selection of territorial, institutional and heritage engagements that form the experiential foundation of ARCHERITAGE.",
+  "attribution": "These references stem from the founder’s professional career.",
+  "founderAttribution": "Founder’s professional experience",
+  "listingOnlyLabel": "Documentation in progress",
+  "sectionTitles": {
+    "contexte": "Context",
+    "mission": "Engagement carried out",
+    "enjeux": "Stakes",
+    "approche": "Approach"
+  },
+  "finalCta": "Discuss a reference or a comparable project.",
+  "detailFinalCta": "Are you leading a comparable project?",
+  "items": {
+    "tinmel": {
+      "title": "Tinmel Mosque",
+      "institution": "Ministry of Habous",
+      "location": "Tinmel",
+      "imageAlt": "Heritage architecture of the Tinmel Mosque",
+      "summary": "Restoration of a historic building in the High Atlas, between place reading and worksite governance.",
+      "role": "Technical coordination and documentary governance",
+      "missionType": "Heritage restoration",
+      "sections": {
+        "contexte": "Restoration of a major historic building in the High Atlas.",
+        "mission": "Historical reading, technical coordination and documentary governance of the worksite.",
+        "approche": "Mission steering structured around traceability and coordination."
+      }
+    },
+    "tiznit": {
+      "title": "Tiznit Kasbah and Mechouar Square",
+      "location": "Tiznit",
+      "imageAlt": "Heritage ensemble of the Tiznit kasbah and Mechouar square",
+      "summary": "Valorisation of an urban historic ensemble, between restoration and contemporary use.",
+      "role": "Restoration and return to use",
+      "missionType": "Heritage valorisation",
+      "sections": {
+        "contexte": "Heritage valorisation of an urban historic ensemble.",
+        "mission": "Restoration and contemporary return to use."
+      }
+    },
+    "cervantes": {
+      "title": "Cervantes Theatre — Tangier",
+      "institution": "APDN",
+      "location": "Tangier",
+      "imageAlt": "Façade of the Cervantes Theatre in Tangier",
+      "summary": "Rehabilitation of twentieth-century heritage, under APDN project ownership.",
+      "role": "Rehabilitation support",
+      "missionType": "Twentieth-century heritage"
+    },
+    "safi": {
+      "title": "Portuguese Walls and Sea Castle — Safi",
+      "institution": "Regional Directorate of Culture",
+      "location": "Safi",
+      "summary": "Intervention on a listed sixteenth-century monument, in connection with the Regional Directorate of Culture.",
+      "role": "Intervention on a listed monument",
+      "missionType": "Heritage restoration"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "home": "Home",
+  "cabinet": "Practice",
+  "expertises": "Expertises",
+  "missions": "Missions",
+  "method": "Method",
+  "solutions": "Solutions",
+  "offer": "Offer",
+  "references": "References",
+  "journal": "Journal",
+  "contact": "Contact",
+  "dropdowns": {
+    "offer": {
+      "toggle": "Show offer"
+    },
+    "missions": {
+      "toggle": "Show missions",
+      "viewAll": "View all missions",
+      "items": {
+        "architecture": { "title": "Architecture and design", "description": "Design, transformation and support for architectural projects." },
+        "land": { "title": "Land analysis and feasibility", "description": "Assessment of potential, constraints and possible scenarios." },
+        "realEstate": { "title": "Real estate valorisation", "description": "Repositioning and transformation of real estate assets." },
+        "heritage": { "title": "Heritage and rehabilitation", "description": "Diagnosis, conservation, rehabilitation and adaptive reuse." },
+        "governance": { "title": "Project governance and safeguarding", "description": "Responsibilities, approvals, risks and project steering." }
+      }
+    },
+    "expertises": {
+      "toggle": "Show expertises",
+      "viewAll": "View all expertises",
+      "items": {
+        "architecture": { "title": "Architectural design", "description": "Design, transform and restructure buildings in response to their context." },
+        "land": { "title": "Urban planning and land", "description": "Analyse regulations, buildable capacity and site constraints." },
+        "heritage": { "title": "Architectural heritage", "description": "Assess a building’s historical, architectural and constructive values." },
+        "realEstate": { "title": "Real estate valorisation", "description": "Identify uses, obstacles and opportunities to transform an asset." },
+        "complexProjects": { "title": "Complex project engineering", "description": "Structure responsibilities, approvals, risks and project steering." }
+      }
+    },
+    "solutions": {
+      "toggle": "Show Solutions",
+      "viewAll": "View all Solutions",
+      "items": {
+        "landPotential": { "title": "Land Potential", "description": "Analyse land before acquisition, construction or sale." },
+        "assetValorisation": { "title": "Asset Valorisation", "description": "Identify obstacles and reposition a real estate asset." },
+        "decisionSketch": { "title": "Decision Sketch", "description": "Test an initial architectural vision before a full study." },
+        "heritageDiagnosis": { "title": "Heritage Diagnosis", "description": "Understand a historic building before any intervention." },
+        "securedHeritageProject": { "title": "Secured Heritage Project", "description": "Structure governance and safeguard a complex operation." }
+      }
+    }
+  },
+  "changeLanguage": "Change language",
+  "changeLanguageAria": "Change language. Current language: {language}",
+  "languageSection": "Language",
+  "languageMenu": "Language selection",
+  "locales": {
+    "fr": "Français",
+    "en": "English",
+    "ar": "العربية"
+  }
+}

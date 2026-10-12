@@ -1,0 +1,47 @@
+{
+  "title": "Assistant ARCHERITAGE",
+  "status": "Informations publiques validées",
+  "supporting": "Expertises, missions, méthode et références.",
+  "greeting": "Bonjour. Comment puis-je vous orienter ?",
+  "greetingSupport": "Je peux vous renseigner sur les expertises, les missions, PATRIGOV et les références publiques d’ARCHERITAGE.",
+  "note": "Réponses fondées sur les informations publiques validées du site.",
+  "suggestions": [
+    "Que fait ARCHERITAGE ?",
+    "Quelle expertise pour mon projet ?",
+    "Qu’est-ce que PATRIGOV ?",
+    "Présenter un site ou un projet"
+  ],
+  "placeholder": "Posez votre question ou décrivez votre projet…",
+  "streaming": "L’assistant prépare sa réponse…",
+  "open": "Ouvrir l’assistant ARCHERITAGE",
+  "close": "Fermer l’assistant",
+  "closeShort": "Fermer",
+  "clearConversation": "Effacer la conversation",
+  "clearShort": "Effacer",
+  "clearConfirm": "Effacer la conversation en cours ?",
+  "yourQuestion": "Votre question",
+  "send": "Envoyer",
+  "stopGeneration": "Arrêter la génération",
+  "stopShort": "Arrêter",
+  "suggestedQuestions": "Questions suggérées",
+  "contactCta": "Contacter ARCHERITAGE",
+  "roleAssistant": "Assistant",
+  "roleYou": "Vous",
+  "interrupted": "Réponse interrompue.",
+  "triggerLabel": "Assistant",
+  "errors": {
+    "invalidRequest": "Votre question n’a pas pu être envoyée. Vérifiez le texte et réessayez.",
+    "unavailable": "L’assistant est temporairement indisponible.",
+    "rateLimited": "L’assistant a reçu trop de demandes. Merci de réessayer dans quelques instants.",
+    "timeout": "La réponse prend plus de temps que prévu. Merci de réessayer.",
+    "providerUnavailable": "L’assistant est momentanément indisponible. Vous pouvez contacter directement l’équipe ARCHERITAGE."
+  },
+  "routeLabels": {
+    "expertises": "Découvrir les expertises",
+    "method": "Voir PATRIGOV",
+    "references": "Consulter les références",
+    "contact": "Contacter ARCHERITAGE",
+    "missions": "Découvrir les missions",
+    "cabinet": "Découvrir le Cabinet"
+  }
+}

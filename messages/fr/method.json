@@ -1,0 +1,61 @@
+{
+  "eyebrow": "Méthode propriétaire",
+  "title": "PATRIGOV by Archeritage",
+  "introduction": "La méthode propriétaire qui rend un projet complexe lisible, documenté et maîtrisable.",
+  "proof": {
+    "eyebrow": "Preuve de méthode",
+    "accent": "116 jours",
+    "title": "Du retard non documenté aux droits opposables",
+    "text": "Sur une opération de restauration patrimoniale pilotée par le fondateur, cette gouvernance documentaire a permis de transformer 116 jours de retards jusque-là non documentés en droits contractuels opposables."
+  },
+  "principles": {
+    "eyebrow": "Sept principes",
+    "title": "Rendre la complexité maîtrisable",
+    "items": [
+      "Clarifier",
+      "Documenter",
+      "Hiérarchiser",
+      "Sécuriser",
+      "Piloter",
+      "Alerter",
+      "Capitaliser"
+    ]
+  },
+  "cycle": {
+    "eyebrow": "Un cycle en six temps",
+    "title": "De la compréhension à la transmission",
+    "steps": [
+      {
+        "title": "Comprendre le contexte",
+        "text": "acteurs, cadre, documents existants"
+      },
+      {
+        "title": "Diagnostiquer la situation",
+        "text": "risques, zones de flou, écarts"
+      },
+      {
+        "title": "Structurer le cadre",
+        "text": "validations et responsabilités"
+      },
+      {
+        "title": "Accompagner la mise en œuvre",
+        "text": "outils, réunions, décisions"
+      },
+      {
+        "title": "Suivre, alerter, ajuster",
+        "text": "écarts et risques en continu"
+      },
+      {
+        "title": "Capitaliser et transmettre",
+        "text": "synthèse et mémoire de mission"
+      }
+    ]
+  },
+  "proprietary": {
+    "eyebrow": "Méthode propriétaire",
+    "title": "Partager les principes, protéger les outils",
+    "text": "Les grandes lignes de PATRIGOV sont présentées ici ; les outils détaillés sont partagés dans le cadre de missions formalisées."
+  },
+  "finalCta": "Évaluer le cadre de gouvernance adapté à votre projet.",
+  "finalCtaLabel": "Évaluer le cadre de gouvernance"
+}

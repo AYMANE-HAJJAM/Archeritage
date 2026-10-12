@@ -1,0 +1,64 @@
+{
+  "eyebrow": "Journal",
+  "title": "Journal Archeritage",
+  "introduction": "Pensées, notes et regards sur l’architecture, le patrimoine et les projets complexes.",
+  "editorialLine": "Ligne éditoriale : publier peu, mais publier juste.",
+  "forthcoming": "À paraître",
+  "upcomingTitle": "Prochaines publications",
+  "rubrics": {
+    "eyebrow": "Rubriques",
+    "title": "Une ligne éditoriale resserrée",
+    "intro": "Le Journal s’organise autour de quatre approches éditoriales complémentaires."
+  },
+  "categories": {
+    "notes-de-doctrine": "Notes de doctrine",
+    "regards-sur-le-patrimoine": "Regards sur le patrimoine",
+    "carnets-de-projets": "Carnets de projets",
+    "methode-et-gouvernance": "Méthode et gouvernance"
+  },
+  "editorialRubrics": {
+    "notes-de-doctrine": {
+      "title": "Notes de doctrine",
+      "description": "Les positions professionnelles d’ARCHERITAGE sur le foncier, l’architecture, le patrimoine et la conduite des projets complexes."
+    },
+    "regards-sur-le-patrimoine": {
+      "title": "Regards sur le patrimoine",
+      "description": "Des lectures de lieux, de bâtiments et de territoires pour comprendre leur histoire, leurs transformations et leur potentiel."
+    },
+    "carnets-de-projets": {
+      "title": "Carnets de projets",
+      "description": "Des fragments de démarche, observations de terrain et enseignements issus de situations professionnelles pouvant être partagées publiquement."
+    },
+    "methode-et-gouvernance": {
+      "title": "Méthode et gouvernance",
+      "description": "Les principes de PATRIGOV, la gouvernance documentaire et les outils qui permettent de clarifier, sécuriser et piloter un projet."
+    }
+  },
+  "posts": {
+    "valorisation-fonciere-diagnostic-prealable": {
+      "title": "Valorisation foncière : ce qu’un diagnostic préalable change vraiment",
+      "description": "Note de doctrine sur la valeur d’une étude de faisabilité avant toute décision foncière.",
+      "category": "Notes de doctrine",
+      "imageAlt": "Vue aérienne d’un territoire résidentiel structuré",
+      "status": "À paraître"
+    },
+    "tinmel-116-jours-retard": {
+      "title": "Tinmel : documenter 116 jours de retard pour sécuriser un chantier patrimonial",
+      "description": "Retour d’expérience sur l’application de la gouvernance documentaire à un chantier de restauration réel.",
+      "category": "Méthode et gouvernance",
+      "imageAlt": "Architecture patrimoniale de la mosquée de Tinmel",
+      "status": "À paraître"
+    },
+    "restauration-rehabilitation-reconversion": {
+      "title": "Restauration, réhabilitation, reconversion : trois mots que l’on confond à tort",
+      "description": "Note de doctrine clarifiant une distinction essentielle pour tout maître d’ouvrage patrimonial.",
+      "category": "Regards sur le patrimoine",
+      "imageAlt": "Structure architecturale en cours de construction",
+      "status": "À paraître"
+    }
+  },
+  "finalCta": {
+    "title": "Échanger autour de ces sujets",
+    "text": "Une question sur le foncier, le patrimoine ou la gouvernance d’un projet ? Contactez ARCHERITAGE."
+  }
+}

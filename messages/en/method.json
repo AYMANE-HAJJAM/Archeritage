@@ -1,0 +1,61 @@
+{
+  "eyebrow": "Proprietary method",
+  "title": "PATRIGOV by Archeritage",
+  "introduction": "The proprietary method that makes a complex project legible, documented and controllable.",
+  "proof": {
+    "eyebrow": "Method evidence",
+    "accent": "116 days",
+    "title": "From undocumented delay to enforceable rights",
+    "text": "On a heritage restoration operation led by the founder, this documentary governance turned 116 days of previously undocumented delays into enforceable contractual rights."
+  },
+  "principles": {
+    "eyebrow": "Seven principles",
+    "title": "Make complexity controllable",
+    "items": [
+      "Clarify",
+      "Document",
+      "Prioritise",
+      "Secure",
+      "Steer",
+      "Alert",
+      "Capitalise"
+    ]
+  },
+  "cycle": {
+    "eyebrow": "A six-stage cycle",
+    "title": "From understanding to transmission",
+    "steps": [
+      {
+        "title": "Understand the context",
+        "text": "stakeholders, framework, existing documents"
+      },
+      {
+        "title": "Diagnose the situation",
+        "text": "risks, grey areas, gaps"
+      },
+      {
+        "title": "Structure the framework",
+        "text": "validations and responsibilities"
+      },
+      {
+        "title": "Support implementation",
+        "text": "tools, meetings, decisions"
+      },
+      {
+        "title": "Monitor, alert, adjust",
+        "text": "gaps and risks on an ongoing basis"
+      },
+      {
+        "title": "Capitalise and transmit",
+        "text": "synthesis and mission memory"
+      }
+    ]
+  },
+  "proprietary": {
+    "eyebrow": "Proprietary method",
+    "title": "Share the principles, protect the tools",
+    "text": "The main lines of PATRIGOV are presented here; detailed tools are shared within formalised engagements."
+  },
+  "finalCta": "Assess the governance framework suited to your project.",
+  "finalCtaLabel": "Assess the governance framework"
+}

@@ -1,0 +1,12 @@
+{
+  "notFound": {
+    "eyebrow": "Erreur 404",
+    "title": "La page demandée est introuvable.",
+    "text": "Le lien peut avoir changé ou la ressource n’existe plus. Retournez à l’accueil pour reprendre la navigation.",
+    "backHome": "Retour à l’accueil",
+    "contact": "Contactez-nous"
+  },
+  "expertiseNotFound": "Expertise introuvable | ARCHERITAGE",
+  "referenceNotFound": "Référence introuvable | ARCHERITAGE",
+  "journalNotFound": "Publication introuvable | ARCHERITAGE"
+}

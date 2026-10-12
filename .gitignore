@@ -1,0 +1,99 @@
+# Dependencies
+/node_modules/
+/.pnp/
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js
+/.next/
+/.next-dev/
+/out/
+
+# Production build
+/build/
+/dist/
+
+# Testing
+/coverage/
+/playwright-report/
+/test-results/
+
+# Local / internal work docs (not product source)
+/docs/
+
+# Generated / local visual capture output
+/artifacts/
+/screenshots/
+/design-reference/
+design-qa.md
+
+# Local-only visual QA / Playwright capture tooling
+scripts/*-capture.mjs
+scripts/*-inspect.mjs
+scripts/capture-*.mjs
+scripts/record-*.mjs
+scripts/final-*-audit.mjs
+scripts/performance-baseline.mjs
+scripts/verify-*.mjs
+scripts/create-*-contact-sheet.mjs
+scripts/cabinet-verify-styles.mjs
+scripts/content-navigation-screenshots.mjs
+
+# Local temporary files
+/tmp/
+/temp/
+*.tmp
+*.temp
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+.env.*
+!.env.example
+
+# Vercel
+.vercel/
+
+# TypeScript
+*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / local AI tooling
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.example.json
+.idea/
+*.swp
+*.swo
+.agents/
+.codex/
+
+# Certificates and credentials
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+credentials.json
+service-account*.json
+*.secret
+*.credentials
+
+# Local confidential source documents
+/content-source/

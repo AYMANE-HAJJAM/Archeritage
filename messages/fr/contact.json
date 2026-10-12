@@ -1,0 +1,91 @@
+{
+  "title": "Présentez votre projet en quelques minutes",
+  "promise": "Indiquez-nous l’essentiel : votre profil, le type de site ou de projet, son stade actuel et la décision que vous devez préparer.",
+  "introduction": "Pour protéger vos informations, ne transmettez aucun document confidentiel ou sensible lors de ce premier contact.",
+  "labels": {
+    "eyebrow": "Contact",
+    "detailsEyebrow": "Contact direct",
+    "detailsTitle": "Coordonnées",
+    "reasonsEyebrow": "Nous solliciter pour",
+    "formEyebrow": "Votre demande",
+    "formTitle": "Décrire votre projet"
+  },
+  "reasons": [
+    "une étude de faisabilité foncière ou une valorisation territoriale",
+    "un projet architectural ou une opération multi-acteurs",
+    "un diagnostic, une restauration ou une réhabilitation patrimoniale",
+    "une assistance à maîtrise d’ouvrage ou un audit de projet",
+    "un partenariat ou une contribution professionnelle"
+  ],
+  "form": {
+    "fullName": "Nom et prénom",
+    "organization": "Organisation",
+    "profile": "Profil",
+    "email": "Email",
+    "phone": "Téléphone",
+    "projectType": "Besoin",
+    "projectLocation": "Localisation",
+    "message": "Message",
+    "website": "Site web",
+    "submit": "Envoyer ma demande",
+    "submitting": "Envoi en cours…",
+    "select": "Sélectionner",
+    "privacyConsent": "J’accepte que les informations saisies soient utilisées par Archeritage pour examiner ma demande et me répondre, conformément à la <privacy>politique de confidentialité</privacy>.",
+    "publicationsConsent": "Je souhaite recevoir les publications d’Archeritage.",
+    "requiredNote": "Les champs marqués d’un * sont obligatoires."
+  },
+  "profiles": {
+    "proprietaire": "Propriétaire",
+    "investisseur": "Investisseur",
+    "promoteur": "Promoteur",
+    "maitre-ouvrage": "Maître d’ouvrage",
+    "collectivite": "Institution / Collectivité",
+    "entreprise": "Entreprise",
+    "professionnel": "Professionnel du secteur",
+    "autre": "Autre"
+  },
+  "projectTypes": {
+    "architecture": "Architecture et conception",
+    "foncier": "Analyse foncière et faisabilité",
+    "valorisation-immobiliere": "Valorisation immobilière",
+    "patrimoine": "Patrimoine et réhabilitation",
+    "gouvernance": "Gouvernance de projets complexes",
+    "potentiel-foncier": "Potentiel Foncier",
+    "valorisation-actif": "Valorisation d’actif",
+    "esquisse-decisionnelle": "Esquisse Décisionnelle",
+    "diagnostic-patrimoine": "Diagnostic Patrimoine",
+    "projet-patrimonial-securise": "Projet Patrimonial Sécurisé",
+    "cadrage-mission": "Cadrage de mission",
+    "autre": "Autre"
+  },
+  "validation": {
+    "fullName": "Indiquez votre nom et prénom.",
+    "email": "Indiquez une adresse email valide.",
+    "profile": "Choisissez votre profil.",
+    "projectType": "Choisissez un besoin.",
+    "messageMin": "Indiquez votre message.",
+    "phone": "Vérifiez le numéro de téléphone.",
+    "privacyConsent": "Votre accord est nécessaire pour traiter votre demande.",
+    "tooLong": "Ce texte est trop long. Merci de le raccourcir."
+  },
+  "status": {
+    "success": "Votre demande a bien été reçue",
+    "sendFailed": "La demande n’a pas pu être envoyée.",
+    "genericError": "La connexion au service d’envoi a échoué. Vos informations sont conservées ; réessayez.",
+    "rateLimited": "Trop de demandes. Réessayez dans quelques minutes.",
+    "unreadable": "La demande n’a pas pu être lue. Vérifiez le formulaire puis réessayez.",
+    "invalid": "Vérifiez les informations du formulaire.",
+    "unavailable": "Le formulaire est temporairement indisponible. Merci de réessayer ultérieurement.",
+    "transmissionFailed": "La demande n’a pas pu être transmise. Réessayez ultérieurement.",
+    "noAttachments": "Les pièces jointes ne sont pas acceptées lors de ce premier contact."
+  },
+  "selectedContext": "Vous avez sélectionné : {name}",
+  "call": "Appeler Archeritage",
+  "whatsapp": "Écrire sur WhatsApp",
+  "confirmation": {
+    "title": "Votre demande a bien été reçue",
+    "text": "Merci pour votre message. Notre équipe va examiner les informations communiquées afin de préparer un premier échange utile. Aucun document confidentiel complémentaire n’est nécessaire à ce stade.",
+    "home": "Retourner à l’Accueil",
+    "references": "Découvrir nos références"
+  }
+}

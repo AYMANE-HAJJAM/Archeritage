@@ -1,0 +1,48 @@
+{
+  "eyebrow": "Cabinet",
+  "title": "Un cabinet d’architecture pour les projets qui engagent un territoire",
+  "introduction": "Le cabinet réunit conception architecturale, lecture territoriale, expertise patrimoniale et gouvernance de projet.",
+  "archeritage": {
+    "eyebrow": "Archeritage",
+    "title": "Un cabinet à la croisée de l’architecture, du patrimoine et de la valorisation",
+    "paragraphs": [
+      "Archeritage accompagne les projets depuis leur question initiale jusqu’à leur conception, leur sécurisation et leur mise en valeur.",
+      "Le cabinet développe une approche intégrée mobilisant l’architecture, l’urbanisme, l’analyse foncière, le patrimoine, la gouvernance de projet et l’aide à la décision."
+    ]
+  },
+  "vision": {
+    "eyebrow": "Vision",
+    "title": "Concevoir avec justesse. Transformer avec responsabilité.",
+    "paragraphs": [
+      "Chaque terrain, bâtiment ou actif porte un potentiel qui doit être compris avant d’être transformé.",
+      "Archeritage privilégie des interventions fondées sur l’analyse, la compréhension du contexte, la qualité architecturale, la maîtrise des risques et la valeur durable du projet."
+    ]
+  },
+  "founder": {
+    "eyebrow": "Fondateur",
+    "title": "Ahmed Taoufik Naciri — Architecte fondateur",
+    "paragraphs": [
+      "Ahmed Taoufik Naciri dispose d’une expérience couvrant la conception architecturale, les grands projets urbains, la valorisation du patrimoine, la gouvernance d’opérations complexes et l’accompagnement des maîtres d’ouvrage publics et privés.",
+      "Son parcours permet à Archeritage d’associer une culture de projet architectural à une forte capacité de structuration institutionnelle et opérationnelle."
+    ],
+    "experienceLabel": "Principaux champs d’expérience",
+    "fields": [
+      "Conception architecturale",
+      "Projets urbains complexes",
+      "Patrimoine",
+      "Gouvernance de projet",
+      "Accompagnement des maîtres d’ouvrage"
+    ]
+  },
+  "commitments": {
+    "eyebrow": "Engagements",
+    "title": "Nos engagements",
+    "items": [
+      { "title": "Clarté", "text": "Définir précisément le problème, le périmètre et les livrables." },
+      { "title": "Indépendance", "text": "Formuler des recommandations fondées sur l’intérêt réel du projet." },
+      { "title": "Traçabilité", "text": "Documenter les analyses, hypothèses et décisions importantes." },
+      { "title": "Valeur", "text": "Orienter les études vers des décisions utiles et opérationnelles." }
+    ]
+  },
+  "finalCta": "Un site à structurer, un projet à conduire ou un patrimoine à transformer ?"
+}

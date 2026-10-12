@@ -1,0 +1,208 @@
+{
+  "hero": {
+    "eyebrow": "Architecture · Heritage · Territories",
+    "title": "Understand the place. Reveal its value.",
+    "introduction": "Architecture, heritage engineering and governance for enduring, exacting projects.",
+    "ctaPrimary": "Present a project",
+    "ctaSecondary": "Discover our solutions",
+    "controls": {
+      "sliderLabel": "Slideshow controls",
+      "imageOf": "Image {current} of {total}",
+      "previousImage": "Previous image",
+      "nextImage": "Next image",
+      "pause": "Pause the slideshow",
+      "play": "Resume the slideshow"
+    }
+  },
+  "proofNote": "Milestones from the founder’s career · PATRIGOV, ARCHERITAGE’s governance method.",
+  "stats": [
+    {
+      "value": "35 years",
+      "label": "of territorial experience"
+    },
+    {
+      "value": "UNESCO / UNDP",
+      "label": "Medina of Fez"
+    },
+    {
+      "value": "1st loan",
+      "label": "World Bank, City of Casablanca"
+    },
+    {
+      "value": "PATRIGOV",
+      "label": "proprietary governance method"
+    }
+  ],
+  "pillars": {
+    "eyebrow": "Our three pillars",
+    "title": "Three expertises, one standard of mastery",
+    "intro": "From land to heritage, three fields of practice united by the same demand for clear framing.",
+    "items": {
+      "valorisation-fonciere": {
+        "title": "Land and territorial valorisation",
+        "description": "Feasibility, parcel optimisation and valorisation strategies to structure a site’s potential.",
+        "imageAlt": "Aerial view of a land site structured by its plots and access routes",
+        "competencies": [
+          "Feasibility studies and parcel optimisation",
+          "Subdivision design and urban insertion",
+          "Valorisation strategies for public authorities and investors",
+          "Regulatory analysis and structuring of land operations"
+        ]
+      },
+      "architecture-projets-envergure": {
+        "title": "Architecture and major projects",
+        "description": "Design and steer facilities and multi-stakeholder operations with clear governance.",
+        "imageAlt": "Contemporary architecture of a large-scale facility",
+        "competencies": [
+          "Design of public buildings and collective facilities",
+          "Coordination of multi-stakeholder and institutional projects",
+          "Delegated project ownership and owner’s advisory support",
+          "Audit, recovery and securing of projects in difficulty"
+        ]
+      },
+      "valorisation-patrimoine": {
+        "title": "Heritage valorisation",
+        "description": "Diagnose, restore and adapt monuments and historic sites to bring them into valued use.",
+        "imageAlt": "Heritage ensemble of the Tiznit kasbah and Mechouar square",
+        "competencies": [
+          "Heritage diagnosis and historical–constructive reading",
+          "Restoration, rehabilitation and adaptive reuse of historic buildings",
+          "Territorial valorisation of historic sites, kasbahs and medinas",
+          "Documentation, transmission and heritage narrative"
+        ]
+      }
+    }
+  },
+  "clients": {
+    "eyebrow": "Who is Archeritage for?",
+    "title": "Your project. Your context. Our way of engaging.",
+    "text": "ARCHERITAGE adapts its engagement to the project owner’s profile and the real decision-making framework.",
+    "segments": {
+      "collectivite": {
+        "title": "Public authorities & institutions",
+        "points": [
+          "Territorial governance",
+          "Public projects",
+          "Multi-stakeholder coordination"
+        ],
+        "cta": "Present your public project"
+      },
+      "investisseur": {
+        "title": "Investors & developers",
+        "points": [
+          "Land valorisation",
+          "Feasibility",
+          "Parcel optimisation"
+        ],
+        "cta": "Assess the site’s potential"
+      },
+      "maitre-ouvrage": {
+        "title": "Project owners",
+        "points": [
+          "Architecture",
+          "Major projects",
+          "Project steering"
+        ],
+        "cta": "Discuss the project"
+      }
+    }
+  },
+  "situations": {
+    "title": "What is your situation?",
+    "items": {
+      "potentiel-foncier": {
+        "title": "You own a plot of land",
+        "category": "Land",
+        "description": "Assess its buildable potential, constraints and opportunities for valorisation.",
+        "cta": "Analyse my land"
+      },
+      "valorisation-actif": {
+        "title": "You own a real estate asset",
+        "category": "Asset",
+        "description": "Identify the obstacles and scenarios that can help you use, transform or market it more effectively.",
+        "cta": "Enhance my asset"
+      },
+      "esquisse-decisionnelle": {
+        "title": "You are preparing an architectural project",
+        "category": "Project",
+        "description": "Test your programme and initial directions before commissioning a full engagement.",
+        "cta": "Study my project"
+      },
+      "diagnostic-patrimoine": {
+        "title": "You are working on a historic building",
+        "category": "Heritage",
+        "description": "Identify its values, vulnerabilities and the studies required before any intervention.",
+        "cta": "Diagnose the building"
+      }
+    }
+  },
+  "solutions": {
+    "eyebrow": "Our solutions",
+    "title": "Archeritage Solutions",
+    "startingAt": "From",
+    "pricingNote": "Indicative fee. The final amount depends on the scope, complexity and available documents.",
+    "discoverAll": "Find the right solution",
+    "items": {
+      "potentiel-foncier": {
+        "title": "Land Potential",
+        "category": "Land",
+        "description": "Preliminary analysis of land before acquisition, construction or sale.",
+        "cta": "Check whether this solution fits"
+      },
+      "valorisation-actif": {
+        "title": "Asset Valorisation",
+        "category": "Asset",
+        "description": "Diagnosis and repositioning of an underused or unsold asset.",
+        "cta": "Check whether this solution fits"
+      },
+      "esquisse-decisionnelle": {
+        "title": "Decision Sketch",
+        "category": "Architecture",
+        "description": "An initial architectural vision before a full study.",
+        "cta": "Check whether this solution fits"
+      },
+      "diagnostic-patrimoine": {
+        "title": "Heritage Diagnosis",
+        "category": "Heritage",
+        "description": "Architectural and heritage assessment of a historic building.",
+        "cta": "Check whether this solution fits"
+      },
+      "projet-patrimonial-securise": {
+        "title": "Secured Heritage Project",
+        "category": "Governance",
+        "description": "Governance, risks, validations and steering for a complex project.",
+        "cta": "Check whether this solution fits"
+      }
+    }
+  },
+  "method": {
+    "eyebrow": "Our approach",
+    "title": "A structured approach",
+    "intro": "Five stages to prepare, inform and support each decision.",
+    "cta": "Discover our method",
+    "steps": [
+      { "title": "Frame", "text": "Understand the property, the client’s objectives and the decisions to prepare.", "outcome": "Scope defined" },
+      { "title": "Analyse", "text": "Examine the architectural, land, urban, real estate and heritage context.", "outcome": "Diagnosis established" },
+      { "title": "Design", "text": "Build coherent, realistic scenarios adapted to the constraints.", "outcome": "Comparable scenarios" },
+      { "title": "Recommend", "text": "Present a clear, prioritised and well-supported direction.", "outcome": "Reasoned direction" },
+      { "title": "Support", "text": "Turn the selected direction into a project, engagement or roadmap.", "outcome": "Structured implementation" }
+    ]
+  },
+  "diagnostic": {
+    "eyebrow": "Living diagnosis",
+    "title": "From reality to strategy",
+    "intro": "A close reading of the building, its history and context to reveal challenges, potential and intervention scenarios.",
+    "cta": "Explore our approach",
+    "stages": ["Existing state", "Architectural reading", "Structure and vulnerabilities", "Materials and traces", "Intervention scenario", "Transformation and restoration"]
+  },
+  "references": {
+    "eyebrow": "Founding experience",
+    "title": "Selected references",
+    "attribution": "These references stem from the founder’s professional career."
+  },
+  "finalCta": {
+    "title": "A plot, an asset or a project to examine?",
+    "text": "Send us the initial information available. Archeritage will recommend the most suitable form of engagement.",
+    "label": "Present my project"
+  }
+}

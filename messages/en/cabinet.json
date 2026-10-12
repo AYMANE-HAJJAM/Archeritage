@@ -1,0 +1,48 @@
+{
+  "eyebrow": "Practice",
+  "title": "An architecture practice for projects that shape a territory",
+  "introduction": "The practice brings together architectural design, territorial insight, heritage expertise and project governance.",
+  "archeritage": {
+    "eyebrow": "Archeritage",
+    "title": "A practice at the intersection of architecture, heritage and valorisation",
+    "paragraphs": [
+      "Archeritage supports projects from their initial question through to their design, safeguarding and enhancement.",
+      "The practice develops an integrated approach combining architecture, urban planning, land analysis, heritage, project governance and decision support."
+    ]
+  },
+  "vision": {
+    "eyebrow": "Vision",
+    "title": "Design with precision. Transform responsibly.",
+    "paragraphs": [
+      "Every plot, building or asset has a potential that must be understood before it is transformed.",
+      "Archeritage favours interventions grounded in analysis, an understanding of context, architectural quality, risk management and the project’s lasting value."
+    ]
+  },
+  "founder": {
+    "eyebrow": "Founder",
+    "title": "Ahmed Taoufik Naciri — Founding architect",
+    "paragraphs": [
+      "Ahmed Taoufik Naciri’s experience spans architectural design, major urban projects, heritage enhancement, the governance of complex operations and support for public and private project owners.",
+      "His background enables Archeritage to combine a culture of architectural design with a strong capacity for institutional and operational structuring."
+    ],
+    "experienceLabel": "Principal fields of experience",
+    "fields": [
+      "Architectural design",
+      "Complex urban projects",
+      "Heritage",
+      "Project governance",
+      "Support for project owners"
+    ]
+  },
+  "commitments": {
+    "eyebrow": "Commitments",
+    "title": "Our commitments",
+    "items": [
+      { "title": "Clarity", "text": "Define the issue, scope and deliverables precisely." },
+      { "title": "Independence", "text": "Make recommendations based on the project’s genuine interests." },
+      { "title": "Traceability", "text": "Document important analyses, assumptions and decisions." },
+      { "title": "Value", "text": "Direct studies towards useful, actionable decisions." }
+    ]
+  },
+  "finalCta": "A site to structure, a project to steer, or a heritage asset to transform?"
+}

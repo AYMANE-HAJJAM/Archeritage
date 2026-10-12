@@ -1,0 +1,63 @@
+{
+  "eyebrow": "Missions",
+  "title": "Choisir le bon niveau d’accompagnement",
+  "introduction": "Du diagnostic ciblé à la gouvernance complète, ARCHERITAGE adapte sa mission à l’état réel du projet, aux décisions à prendre et aux acteurs concernés.",
+  "issues": {
+    "eyebrow": "Selon vos enjeux",
+    "title": "Identifier le bon point d’entrée",
+    "items": [
+      {
+        "title": "Valoriser un foncier ou un territoire",
+        "text": "Faisabilité, optimisation parcellaire, lotissement ou stratégie territoriale : structurer un site en projet clair et argumenté.",
+        "formats": "Formats possibles : diagnostic flash ou étude de faisabilité"
+      },
+      {
+        "title": "Construire ou transformer un projet d’envergure",
+        "text": "Conception, cadrage, coordination ou gouvernance d’une opération impliquant plusieurs acteurs.",
+        "formats": "Formats possibles : AMO, audit ou gouvernance complète"
+      },
+      {
+        "title": "Restaurer ou valoriser un patrimoine",
+        "text": "Diagnostic, restauration, réhabilitation ou reconversion d’un site historique avec une conduite adaptée.",
+        "formats": "Formats possibles : diagnostic, étude ou AMO"
+      }
+    ]
+  },
+  "formats": {
+    "eyebrow": "Formats d’intervention",
+    "title": "Un niveau d’accompagnement calibré",
+    "tableHeaders": {
+      "format": "Format",
+      "outcome": "Ce que ce format permet"
+    },
+    "items": [
+      {
+        "name": "Diagnostic flash",
+        "outcome": "Lecture rapide d’une situation foncière, architecturale ou patrimoniale pour clarifier les premiers enjeux."
+      },
+      {
+        "name": "Étude de faisabilité",
+        "outcome": "Analyse du potentiel d’un site ou d’un projet avant une décision d’investissement, de programmation ou d’engagement."
+      },
+      {
+        "name": "Assistance à maîtrise d’ouvrage",
+        "outcome": "Accompagnement structuré des phases sensibles, des arbitrages et de la coordination du projet."
+      },
+      {
+        "name": "Audit et redressement",
+        "outcome": "Analyse d’un projet bloqué ou insuffisamment gouverné afin de clarifier les risques et les actions prioritaires."
+      },
+      {
+        "name": "Mission complète de gouvernance",
+        "outcome": "Pilotage documentaire et opérationnel du projet selon les principes de PATRIGOV."
+      }
+    ]
+  },
+  "audience": {
+    "eyebrow": "Pour qui",
+    "title": "Maîtres d’ouvrage publics et privés",
+    "text": "Institutions, collectivités, agences de développement, investisseurs et maîtres d’ouvrage engagés dans des opérations complexes ou sensibles."
+  },
+  "finalCta": "Décrivez votre projet pour identifier la forme d’accompagnement adaptée.",
+  "finalCtaLabel": "Décrire votre besoin"
+}

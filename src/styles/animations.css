@@ -1,0 +1,108 @@
+[data-reveal] {
+  /* will-change applied only during GSAP animation via inline styles */
+}
+
+[data-card] {
+  /* reserved for card motion hooks; avoid permanent will-change */
+}
+
+[data-split-word] {
+  display: inline-block;
+  overflow: hidden;
+}
+
+.motion-scroll-progress {
+  position: fixed;
+  z-index: 90;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  pointer-events: none;
+  transform: scaleX(var(--scroll-progress, 0));
+  transform-origin: left;
+  background: var(--accent);
+  box-shadow: 0 0 16px rgba(193, 161, 102, 0.38);
+}
+
+.route-transition-panel {
+  position: fixed;
+  z-index: 100;
+  inset: 0;
+  display: none;
+  place-content: center;
+  background: #090906;
+  color: var(--foreground);
+  text-align: center;
+  pointer-events: none;
+}
+.route-transition-panel > span { color: var(--accent); font-size: .65rem; letter-spacing: .34em; }
+.route-transition-panel > div { width: min(17rem,55vw); height: 1px; margin: 1.3rem auto; background: linear-gradient(90deg,transparent,var(--accent),transparent); }
+.route-transition-panel > p { font-family: var(--font-display),Georgia,serif; font-size: clamp(1.8rem,4vw,3.5rem); letter-spacing: -.03em; }
+
+.motion-cursor {
+  position: fixed;
+  z-index: 110;
+  top: 0;
+  left: 0;
+  display: grid;
+  width: 14px;
+  height: 14px;
+  place-items: center;
+  border: 1px solid var(--accent);
+  border-radius: 50%;
+  transform: translate(-50%,-50%);
+  pointer-events: none;
+  color: #090906;
+  transition: width .28s ease,height .28s ease,background .28s ease,border-color .28s ease,opacity .2s ease;
+}
+.motion-cursor::after { content: attr(data-label); opacity: 0; font-size: .58rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; transition: opacity .2s ease; }
+.motion-cursor[data-state="active"] { width: 54px; height: 54px; background: rgba(193,161,102,.92); border-color: var(--accent); }
+.motion-cursor[data-state="active"]::after { opacity: 1; }
+.motion-cursor[data-state="input"] { opacity: 0; }
+.has-custom-cursor body,.has-custom-cursor a,.has-custom-cursor button,.has-custom-cursor [data-cursor] { cursor: none; }
+.has-custom-cursor input,.has-custom-cursor textarea,.has-custom-cursor select { cursor: auto; }
+
+.hero-intro-panel { position: absolute; z-index: 55; inset-block: 0; display: none; width: 51%; background: #090906; }
+.hero-intro-panel--left { left: 0; }
+.hero-intro-panel--right { right: 0; }
+.hero-intro-wordmark { position: absolute; z-index: 56; inset: 0; display: grid; place-items: center; pointer-events: none; color: var(--foreground); font-size: clamp(.8rem,1.5vw,1.1rem); letter-spacing: .3em; opacity: 0; }
+.hero-title-line { display: block; overflow: hidden; }
+.hero-title-line > span { display: block; }
+
+.button-primary,.button-secondary { position: relative; overflow: hidden; }
+.button-primary > *,.button-secondary > * { position: relative; z-index: 1; }
+.button-primary::before,.button-secondary::before { position: absolute; inset: 0; transform: scaleX(0); transform-origin: right; background: rgba(255,255,255,.14); content: ""; transition: transform .38s cubic-bezier(.2,.75,.25,1); }
+.button-primary:hover::before,.button-secondary:hover::before { transform: scaleX(1); transform-origin: left; }
+.button-primary svg,.button-secondary svg,.arrow-link svg { transition: transform .3s ease; }
+.button-primary:hover svg,.button-secondary:hover svg,.arrow-link:hover svg { transform: translateX(4px); }
+.arrow-link { position: relative; }
+.arrow-link::after { position: absolute; right: 0; bottom: -.35rem; left: 0; height: 1px; transform: scaleX(0); transform-origin: right; background: var(--accent); content: ""; transition: transform .35s ease; }
+.arrow-link:hover::after { transform: scaleX(1); transform-origin: left; }
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .motion-scroll-progress,
+  .route-transition-panel,
+  .motion-cursor,
+  .hero-intro-panel,
+  .button-primary::before,
+  .button-secondary::before,
+  .arrow-link::after {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  .button-primary:hover svg,
+  .button-secondary:hover svg,
+  .arrow-link:hover svg {
+    transform: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .motion-scroll-progress { display: none; }
+}

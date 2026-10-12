@@ -1,0 +1,47 @@
+{
+  "title": "ARCHERITAGE Assistant",
+  "status": "Validated public information",
+  "supporting": "Expertises, engagements, method and references.",
+  "greeting": "Hello. How may I guide you?",
+  "greetingSupport": "I can inform you about ARCHERITAGE’s expertises, engagements, PATRIGOV and public references.",
+  "note": "Answers based on the site’s validated public information.",
+  "suggestions": [
+    "What does ARCHERITAGE do?",
+    "Which expertise for my project?",
+    "What is PATRIGOV?",
+    "Present a site or a project"
+  ],
+  "placeholder": "Ask your question or describe your project…",
+  "streaming": "The assistant is preparing its answer…",
+  "open": "Open the ARCHERITAGE assistant",
+  "close": "Close the assistant",
+  "closeShort": "Close",
+  "clearConversation": "Clear conversation",
+  "clearShort": "Clear",
+  "clearConfirm": "Clear the current conversation?",
+  "yourQuestion": "Your question",
+  "send": "Send",
+  "stopGeneration": "Stop generation",
+  "stopShort": "Stop",
+  "suggestedQuestions": "Suggested questions",
+  "contactCta": "Contact ARCHERITAGE",
+  "roleAssistant": "Assistant",
+  "roleYou": "You",
+  "interrupted": "Response interrupted.",
+  "triggerLabel": "Assistant",
+  "errors": {
+    "invalidRequest": "Your question could not be sent. Check the text and try again.",
+    "unavailable": "The assistant is temporarily unavailable.",
+    "rateLimited": "The assistant has received too many requests. Please try again shortly.",
+    "timeout": "The response is taking longer than expected. Please try again.",
+    "providerUnavailable": "The assistant is momentarily unavailable. You may contact the ARCHERITAGE team directly."
+  },
+  "routeLabels": {
+    "expertises": "Explore the expertises",
+    "method": "View PATRIGOV",
+    "references": "Browse the references",
+    "contact": "Contact ARCHERITAGE",
+    "missions": "Explore the engagements",
+    "cabinet": "Discover the Practice"
+  }
+}
